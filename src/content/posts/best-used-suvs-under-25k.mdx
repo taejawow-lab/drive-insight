@@ -63,7 +63,7 @@ internalLinks:
 visualsCount: 7
 hasVideo: false
 wordCount: 2620
-affiliate: false
+affiliate: true
 faq:
   - question: "What is the most reliable used SUV under $25K?"
     answer: "Cross-referencing IIHS Top Safety Pick with Consumer Reports 4+/5 reliability and KBB under-$25K pricing for 2018-2021 models, the four leaders are: 2019-2020 Toyota RAV4, 2018-2020 Honda CR-V, 2019-2021 Subaru Forester, and 2018-2020 Mazda CX-5. All four earned IIHS TSP across these years, all rate 4 or 5/5 on Consumer Reports reliability, and all sit comfortably under $25K at typical mileage. The RAV4 and CR-V have the longest reliability track records; the Forester adds standard AWD; the CX-5 wins on driving feel."
@@ -79,6 +79,9 @@ faq:
     answer: "Three categories. (1) Older Jeep Cherokee (2014-2018) — Consumer Reports rates 1-2/5 reliability, transmission issues common. (2) Ford Escape 2013-2019 — CR rates 2-3/5, several recalls and reliability issues. (3) Nissan Rogue 2014-2018 — older Jatco CVT issues at 80-120K miles. Do not buy these without a comprehensive pre-purchase inspection, and even then expect higher repair costs than Toyota/Honda/Subaru/Mazda equivalents."
 draft: false
 ---
+
+import ProductBox from '../../components/ProductBox.astro';
+import Aff from '../../components/Aff.astro';
 
 The "best used SUV under $25K" question gets confused by independent rankings that emphasize different criteria. Some prioritize fuel economy, others driving dynamics, others sales volume. This article cross-references three independent datasets — IIHS safety, Consumer Reports reliability, and KBB pricing — and identifies which used SUVs are under $25K AND earn top scores on safety AND earn top scores on reliability. The intersection is small and remarkably consistent.
 
@@ -251,3 +254,57 @@ For pure value-per-dollar in 2024, the 2018-2020 generation at 50-80K miles rema
 The four cross-referenced winners are the answer to "what should I buy?" for the under-$25K used SUV question. RAV4 and CR-V for absolute reliability and resale, Forester for AWD and snow capability, CX-5 for driving feel. All four pass all four tests (IIHS, Consumer Reports, KBB, recall status). All four cluster around the same total cost of ownership. Picking among them is more about preference (AWD? cargo size? driving feel?) than about hidden differences in long-term reliability or safety.
 
 For sedan equivalents at lower price points, see the [Camry](/posts/used-toyota-camry-2018-2022) and [Civic](/posts/used-honda-civic-2018-2022) analyses — same data sources, same methodology, smaller vehicles for those who don't need the SUV size or AWD.
+
+## SUV accessories worth buying day-one
+
+Three accessory categories return outsized value on most used SUVs: weather-tight floor mats, cargo organization, and a roof crossbar system. These three picks are vehicle-agnostic and ship with universal-fit options:
+
+<ProductBox
+  name="WeatherTech FloorLiner DigitalFit (Front + Rear)"
+  priceHint="$200-300 — vehicle-specific weather-tight liners"
+  pros={[
+    "Laser-measured fit for hundreds of SUV models",
+    "Raised channels trap water, salt, and dirt — easy hose-clean",
+    "Lifetime limited warranty against material defects"
+  ]}
+  cons={[
+    "Premium pricing vs generic rubber alternatives",
+    "Vehicle-specific — verify exact model + year before ordering"
+  ]}
+  href="https://www.amazon.com/s?k=WeatherTech+FloorLiner+DigitalFit+SUV"
+  region="us"
+/>
+
+<ProductBox
+  name="Trunkcratepro Collapsible Trunk Organizer"
+  priceHint="$40-60 — cargo control for SUV stowage"
+  pros={[
+    "Multiple compartments + heavy-duty straps anchor to seats",
+    "Collapses flat when not in use — no permanent space loss",
+    "Reinforced base supports 50+ lbs grocery + sports gear"
+  ]}
+  cons={[
+    "Velcro anchors require seat back loops for best stability",
+    "Fabric stains can be tough to clean without machine wash"
+  ]}
+  href="https://www.amazon.com/s?k=Trunkcratepro+collapsible+trunk+organizer"
+  region="us"
+/>
+
+<ProductBox
+  name="Thule WingBar Evo Roof Rack Crossbars"
+  priceHint="$330-450 — universal-fit aero crossbars"
+  pros={[
+    "Aerodynamic profile reduces road noise vs square bars",
+    "TÜV / City Crash tested load capacity (165+ lbs)",
+    "Compatible with Thule kayak / bike / cargo box accessories"
+  ]}
+  cons={[
+    "Vehicle-specific Thule foot/fit kit required (additional purchase)",
+    "Premium pricing — most expensive of the three picks"
+  ]}
+  href="https://www.amazon.com/s?k=Thule+WingBar+Evo+roof+rack+crossbars"
+  region="us"
+/>
+
+For most used-SUV buyers, the WeatherTech + Trunkcratepro pair is the minimum upgrade kit. Add the Thule crossbars only if you actively haul bikes, kayaks, or cargo boxes — otherwise they're aerodynamic drag you don't need.
