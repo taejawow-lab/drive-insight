@@ -63,7 +63,7 @@ internalLinks:
 visualsCount: 7
 hasVideo: false
 wordCount: 2700
-affiliate: false
+affiliate: true
 faq:
   - question: "How much does a pre-purchase inspection cost?"
     answer: "AAA-certified shops and most independent mechanics charge $100-200 for a comprehensive PPI on a typical car, $200-300 for European luxury or trucks. The inspection takes 60-90 minutes and covers 50-150 points depending on the shop. RepairPal-certified shops average $125. The cost is paid by the buyer (you), not the seller. AAA explicitly recommends never skipping PPI on used cars over $5,000 — the math overwhelmingly favors paying $150 to avoid a $2,000-10,000 surprise."
@@ -79,6 +79,9 @@ faq:
     answer: "60-90 minutes for a competent inspection. The shop puts the car on a lift, scans for diagnostic codes (OBD-II), checks fluid conditions, examines suspension/steering components, evaluates brakes, tests AC system, runs engine through warm-up cycles, road-tests, then writes up findings. Quick 'inspections' under 30 minutes don't reach the suspension, exhaust, or undercarriage. If the shop says they can do it in 20 minutes, it's not a real PPI. Schedule 90 minutes minimum."
 draft: false
 ---
+
+import ProductBox from '../../components/ProductBox.astro';
+import Aff from '../../components/Aff.astro';
 
 The single highest-ROI step in used car buying is the pre-purchase inspection (PPI). AAA, Consumer Reports, the FTC, and every reputable used-car publication agree: spending $100-200 on a competent independent inspection prevents thousands in surprises. This article walks through the full 60-point checklist that ASE-certified mechanics actually use, what each item is testing for, and what specific findings should change the deal terms or send you walking.
 
@@ -334,3 +337,57 @@ This baseline reset means you know the car's true service state from day one.
 A $150 PPI is the highest-ROI single step in used-car buying. It catches the issues that history reports miss, validates the seller's claims, and gives you a written negotiation tool. The math overwhelmingly favors paying for it on every used car over $5,000.
 
 For specific vehicle data, see the data-driven model analyses: [Camry](/posts/used-toyota-camry-2018-2022), [Civic](/posts/used-honda-civic-2018-2022), and [under-$25K SUVs](/posts/best-used-suvs-under-25k). Whatever model you buy, the PPI process described above applies identically.
+
+## Pre-purchase inspection tools that catch hidden problems
+
+Mechanic shop inspections cost $100-150 and can miss intermittent codes that show up only under load. These three tools let you screen any used car in 30 minutes before paying for the shop visit:
+
+<ProductBox
+  name="BlueDriver Professional OBDII Scan Tool (Bluetooth)"
+  priceHint="$120-150 — reads enhanced manufacturer codes"
+  pros={[
+    "Bluetooth pairs with iOS / Android — no separate display needed",
+    "Reads ABS, airbag, transmission codes beyond basic OBD-II",
+    "Pre-built repair reports from BlueDriver's 4M+ vehicle database"
+  ]}
+  cons={[
+    "Premium price vs basic $30 OBD readers",
+    "Subscription tier locks some advanced features"
+  ]}
+  href="https://www.amazon.com/s?k=BlueDriver+OBDII+scan+tool+Bluetooth"
+  region="us"
+/>
+
+<ProductBox
+  name="OBDLink MX+ OBD-II Scanner"
+  priceHint="$140-180 — strongest live-data streaming"
+  pros={[
+    "Real-time data streaming during test drive (RPM, throttle, MAF)",
+    "Supports CAN bus + manufacturer-specific protocols",
+    "More secure than budget Bluetooth alternatives (anti-sleep)"
+  ]}
+  cons={[
+    "Requires paid OBDLink app for full feature unlock",
+    "Slightly more complex setup than BlueDriver"
+  ]}
+  href="https://www.amazon.com/s?k=OBDLink+MX+OBD-II+scanner"
+  region="us"
+/>
+
+<ProductBox
+  name="Bayco LED Inspection Light with Magnetic Base"
+  priceHint="$25-40 — see what shop techs see"
+  pros={[
+    "Magnetic base sticks to engine bay or undercarriage",
+    "200+ lumens reveals leaks and rust spots in poor light",
+    "Rechargeable — full charge supports 4-hour inspection"
+  ]}
+  cons={[
+    "Plastic body — drop carefully",
+    "No telescoping option — limited reach into tight spaces"
+  ]}
+  href="https://www.amazon.com/s?k=Bayco+LED+inspection+light+magnetic+base"
+  region="us"
+/>
+
+The BlueDriver + inspection light combo screens any used car within 30 minutes. If you negotiate $200 off the listing based on a code you found, the BlueDriver pays for itself on the first car.
