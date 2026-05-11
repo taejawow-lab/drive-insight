@@ -18,6 +18,8 @@ jobs:
           node-version: '20'
       - run: npm ci || npm install
       - run: npm run build
+        env:
+          PUBLIC_CF_BEACON_TOKEN: 500eaa787032423fa91b36fa0cd1e8df
       - uses: cloudflare/wrangler-action@v3
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
