@@ -1,0 +1,143 @@
+{
+  "generated_at": "2026-06-02T16:13:47Z",
+  "finalized_at": "2026-06-02T16:17:40Z",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "site": "drive-insight",
+  "slug": "flash-flood-road-trip-turn-around-safety-checklist",
+  "title": "Flash Flood Road Trip Safety: Turn-Around Checklist",
+  "post": "src/content/posts/flash-flood-road-trip-turn-around-safety-checklist.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-hero.png",
+      "filename": "di-flash-flood-20260603-hero.png",
+      "seed": 202606030101,
+      "prompt": "empty flooded road seen from a safe dry shoulder with car stopped far back on high dry pavement, driver has clearly turned around, no vehicle in water, no signs, no text, no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, car driving through water, vehicle in floodwater, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, scannable code",
+      "prompt_id": "d8e63794-1485-4870-8b52-06cd9e2b0d3b",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_final_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 24,
+      "cfg": 5.7,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1870036,
+      "qa_regenerated": true
+    },
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-01.png",
+      "filename": "di-flash-flood-20260603-01.png",
+      "seed": 202606030014,
+      "prompt": "driver checking weather route at kitchen table with blank phone screen and paper map without text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "ef32bba7-8f97-4d0a-88b0-8110fc3a33b8",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1308288
+    },
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-02.png",
+      "filename": "di-flash-flood-20260603-02.png",
+      "seed": 202606030015,
+      "prompt": "car parked on high dry ground during dark summer storm, no license plate readable",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "fe82c6ac-8d99-4c39-99ad-e08194ac994e",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1690346
+    },
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-03.png",
+      "filename": "di-flash-flood-20260603-03.png",
+      "seed": 202606030016,
+      "prompt": "road trip emergency kit with water flashlight blanket in trunk, no labels no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "c4df6172-223e-4244-8374-28307682277a",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 2054789
+    },
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-04.png",
+      "filename": "di-flash-flood-20260603-04.png",
+      "seed": 202606030017,
+      "prompt": "family waiting indoors at rest stop while rain passes, blank windows no signs",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "5b05f248-08d7-44c6-83cc-3c495dc4748c",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1440697
+    },
+    {
+      "file": "public/images/illustrations/di-flash-flood-20260603-05.png",
+      "filename": "di-flash-flood-20260603-05.png",
+      "seed": 202606030018,
+      "prompt": "close view of tires on dry pavement with rain clouds ahead, no dashboard text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code",
+      "prompt_id": "b2b2dcb2-75b4-4305-bdf1-59deedbab80c",
+      "raw_output": {
+        "filename": "hermes_batcha_20260603_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1579913
+    }
+  ],
+  "visual_qa": "pass after contact-sheet inspection; drive-insight hero and greenlivingtrend image 01 regenerated before publication"
+}
