@@ -1,0 +1,141 @@
+{
+  "generated_at": "2026-06-03T16:13:44Z",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "site": "drive-insight",
+  "slug": "parked-car-heat-child-pet-passenger-safety-plan",
+  "title": "Parked Car Heat Safety for Children, Pets, and Passengers",
+  "post": "src/content/posts/parked-car-heat-child-pet-passenger-safety-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-hero.png",
+      "filename": "di-parked-car-heat-20260604-hero.png",
+      "seed": 202606040013,
+      "prompt": "realistic parked car in summer shade with caregiver holding keys outside vehicle and empty back seat visible, no license plate, no text, no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "5a1dce2f-a9f8-4a49-8c75-7b0c30408785",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1805011
+    },
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-01.png",
+      "filename": "di-parked-car-heat-20260604-01.png",
+      "seed": 202606040014,
+      "prompt": "caregiver placing bag and phone beside keys at home entry before errand, no text no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "745e45a4-728d-4fde-810e-fa9755b6493d",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1609219
+    },
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-02.png",
+      "filename": "di-parked-car-heat-20260604-02.png",
+      "seed": 202606040015,
+      "prompt": "empty back seat with plain child seat checked from open door, no child, no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "40006549-eb07-4b03-81e0-f4d111d57787",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1598379
+    },
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-03.png",
+      "filename": "di-parked-car-heat-20260604-03.png",
+      "seed": 202606040016,
+      "prompt": "driver choosing curbside pickup instead of leaving pet in car, dog on leash outside shaded storefront, no signs",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "b0c2a82c-570d-43db-a3e6-8f277cf60ebf",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1749575
+    },
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-04.png",
+      "filename": "di-parked-car-heat-20260604-04.png",
+      "seed": 202606040017,
+      "prompt": "parking lot with adult calling for help near vehicle from safe distance, no license plates no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "0494ee1b-3b9e-4504-89c8-973f8de3752a",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1683689
+    },
+    {
+      "file": "public/images/illustrations/di-parked-car-heat-20260604-05.png",
+      "filename": "di-parked-car-heat-20260604-05.png",
+      "seed": 202606040018,
+      "prompt": "family unloading groceries and checking rear seat immediately, no labels no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "b1d23893-3799-44f8-9586-8dba606b9b2b",
+      "raw_output": {
+        "filename": "hermes_batcha_20260604_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1650487
+    }
+  ],
+  "qa": "visual contact sheet reviewed; final retained images only"
+}
