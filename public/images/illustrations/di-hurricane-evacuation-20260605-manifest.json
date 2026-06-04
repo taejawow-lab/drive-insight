@@ -1,0 +1,136 @@
+{
+  "site": "drive-insight",
+  "date": "2026-06-05",
+  "host": "gti13",
+  "endpoint": "http://192.168.50.29:8188",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-hero.png",
+      "filename": "di-hurricane-evacuation-20260605-hero.png",
+      "seed": 202606050013,
+      "prompt": "realistic family vehicle packed for evacuation in driveway under cloudy sky no license plate no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "3f29722c-ddd1-40d5-aa83-df6a045d5c36",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1491792
+    },
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-01.png",
+      "filename": "di-hurricane-evacuation-20260605-01.png",
+      "seed": 202606050014,
+      "prompt": "car trunk organized with water bags pet carrier and blank document pouch no labels",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "b698a1d8-544c-458d-9ebb-5d937bff0995",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1722684
+    },
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-02.png",
+      "filename": "di-hurricane-evacuation-20260605-02.png",
+      "seed": 202606050015,
+      "prompt": "driver checking tires and wipers before storm no brand no readable gauges",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "5be044ce-a7bc-4478-ab15-9c0822111f4f",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1671577
+    },
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-03.png",
+      "filename": "di-hurricane-evacuation-20260605-03.png",
+      "seed": 202606050016,
+      "prompt": "quiet gas station style fueling scene with no signs no numbers no logos",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "784d5d2f-4de2-4e8a-8534-bae09ba722a3",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1365658
+    },
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-04.png",
+      "filename": "di-hurricane-evacuation-20260605-04.png",
+      "seed": 202606050017,
+      "prompt": "roadside decision scene with water ahead viewed from safe distance no signs no text",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "8db04031-a3ba-4fe3-ada4-ab318080be59",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1950760
+    },
+    {
+      "file": "public/images/illustrations/di-hurricane-evacuation-20260605-05.png",
+      "filename": "di-hurricane-evacuation-20260605-05.png",
+      "seed": 202606059002,
+      "prompt": "plain evacuation rest stop parking area with family vehicle and luggage, no signs, no readable text, no license plates, safe arrival scene",
+      "negative_prompt": "text, words, letters, numbers, watermark, logo, brand name, readable labels, screen text, user interface, distorted hands, deformed anatomy, unsafe scene, medical procedure, fake dashboard, fake warning sign, blurry, low resolution, generic stock art, placeholder, plastic skin, extra fingers, broken objects, exposed wiring, raw meat next to produce, scannable code, QR code",
+      "prompt_id": "5ea6f243-1508-4f47-a04b-b1be23d0f892",
+      "raw_output": {
+        "filename": "hermes_batcha_20260605_qa_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "steps": 22,
+      "cfg": 5.5,
+      "width": 1536,
+      "height": 864,
+      "bytes": 1637534,
+      "qa_regenerated": true
+    }
+  ]
+}
