@@ -1,0 +1,193 @@
+{
+  "generated_at": "2026-06-05T16:14:36Z",
+  "batch": "A",
+  "date": "2026-06-06",
+  "endpoint": "http://192.168.50.29:8188",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels"
+  },
+  "site": "drive-insight",
+  "slug": "summer-roadside-emergency-kit-heat-tire-plan",
+  "title": "Summer Roadside Emergency Kit: Heat, Tires, Water, and Safe Stops",
+  "post": "src/content/posts/summer-roadside-emergency-kit-heat-tire-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-hero.png",
+      "filename": "di-roadside-heat-kit-20260606-hero.png",
+      "prompt": "realistic car trunk roadside emergency kit with plain water bottles, reflective triangle, flashlight, folded blanket, tire gauge turned away, all items blank with no packaging, no first aid cross, no labels, no readable text, no logos",
+      "seed": 202606061204,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d16fa485-948a-4c38-b4f4-5bf755d6da61",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_regen2_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2397891,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Second QA regeneration to reduce embedded text/logo/package risk."
+    },
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-01.png",
+      "filename": "di-roadside-heat-kit-20260606-01.png",
+      "prompt": "realistic open car trunk summer emergency kit neatly arranged with plain unlabeled water bottles, flashlight, reflective triangle, closed blank pouch, gloves, no first aid cross, no product packaging, no labels, no readable text, no logos",
+      "seed": 202606061205,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "00a69a86-8224-41e2-80fb-06abcc3af8ee",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_regen2_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2796186,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Second QA regeneration to reduce embedded text/logo/package risk."
+    },
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-02.png",
+      "filename": "di-roadside-heat-kit-20260606-02.png",
+      "prompt": "realistic tire pressure check scene with plain tire gauge, parked car, no dashboard numbers, no logos",
+      "seed": 202606060615,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "958f1c33-8eea-4ec8-adbf-3d78502f2e44",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1561536,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-03.png",
+      "filename": "di-roadside-heat-kit-20260606-03.png",
+      "prompt": "realistic safe roadside stop scene with vehicle on shoulder, cones without markings, distant road, no readable signs",
+      "seed": 202606060616,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "8c272a33-630d-49bb-b83f-138dfc568519",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2126168,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-04.png",
+      "filename": "di-roadside-heat-kit-20260606-04.png",
+      "prompt": "realistic summer roadside preparedness flat lay with sealed plain water bottles, flashlight, blank pouch closed, reflective cloth, battery pack, no first aid cross, no labels, no readable text, no logos",
+      "seed": 202606061104,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "9e5a8a33-7670-4bc5-9a53-02095de82cc3",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_regen_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2728002,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet QA to remove text/logo/accuracy risk."
+    },
+    {
+      "file": "public/images/illustrations/di-roadside-heat-kit-20260606-05.png",
+      "filename": "di-roadside-heat-kit-20260606-05.png",
+      "prompt": "realistic shaded rest stop planning scene with map shapes without labels, sunglasses, keys, no text",
+      "seed": 202606060618,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "6a7d88f8-040e-45bf-b0b2-d8b39845b8c4",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260606_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1930680,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260606-drive-insight-contact-sheet.jpg",
+  "sources": [
+    "https://www.ready.gov/car",
+    "https://www.nhtsa.gov/road-safety/tires",
+    "https://www.nhtsa.gov/summer-driving-tips",
+    "https://www.weather.gov/safety/heat",
+    "https://www.cdc.gov/heat-health/about/index.html",
+    "https://www.fema.gov/press-release/20210318/how-build-kit-emergencies",
+    "https://www.nhtsa.gov/road-safety/seat-belts",
+    "https://www.nhtsa.gov/risky-driving/distracted-driving"
+  ],
+  "visual_qa_summary": "Final contact sheet inspected after QA replacements; accepted GTI13 raster PNGs are topic-relevant, 1536x864, and no SVG/placeholders counted.",
+  "adSense_readiness": "Article uses official/current sources, non-affiliate helpful-content framing, internal links, FAQ, native tables, and six GTI13 raster images with visual QA."
+}
