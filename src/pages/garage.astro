@@ -1,0 +1,53 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="My Garage Dashboard" description="A Drive-Insight concept dashboard for vehicle health, maintenance urgency, and safety recall planning.">
+  <section class="site-shell py-14 md:py-20">
+    <span class="technical-chip">My Garage / personalization module</span>
+    <div class="mt-6 grid gap-6 lg:grid-cols-[360px_1fr]">
+      <aside class="ledger-card">
+        <div class="flex flex-col items-center text-center">
+          <div class="gauge-ring"><span>98</span></div>
+          <h1 class="mt-6 text-4xl font-black">Optimal</h1>
+          <p class="mt-3 text-sm leading-6 text-muted-foreground">Demo vehicle health score for a context-aware maintenance cockpit.</p>
+        </div>
+        <div class="mt-8 space-y-3">
+          <div class="data-readout"><span class="value">0</span><span class="label">open recalls</span></div>
+          <div class="data-readout"><span class="value status-amber">500</span><span class="label">miles to oil/filter</span></div>
+          <div class="data-readout"><span class="value status-green">81%</span><span class="label">parts longevity index</span></div>
+        </div>
+      </aside>
+
+      <div class="space-y-6">
+        <div class="ledger-card">
+          <div class="flex flex-wrap items-center justify-between gap-4 border-b border-border pb-5">
+            <div>
+              <h2 class="mt-0">Vehicle context</h2>
+              <p class="text-muted-foreground">Year / Make / Model filters are staged as UI controls for future personalized report filtering.</p>
+            </div>
+            <span class="verified-badge">Local demo only</span>
+          </div>
+          <div class="mt-6 grid gap-3 md:grid-cols-3">
+            <label class="block"><span class="text-xs font-bold uppercase tracking-[0.16em] text-muted-foreground">Year</span><select class="mt-2 w-full rounded border border-border bg-muted px-4 py-3"><option>2026</option><option>2025</option><option>2020-2024</option></select></label>
+            <label class="block"><span class="text-xs font-bold uppercase tracking-[0.16em] text-muted-foreground">Make</span><select class="mt-2 w-full rounded border border-border bg-muted px-4 py-3"><option>Toyota</option><option>Honda</option><option>Ford</option><option>Tesla</option></select></label>
+            <label class="block"><span class="text-xs font-bold uppercase tracking-[0.16em] text-muted-foreground">Model</span><select class="mt-2 w-full rounded border border-border bg-muted px-4 py-3"><option>Camry</option><option>Civic</option><option>F-150</option><option>Model 3</option></select></label>
+          </div>
+        </div>
+
+        <div class="grid gap-6 md:grid-cols-2">
+          <div class="ledger-card">
+            <span class="safety-badge">Next action</span>
+            <h3>Oil and filter service</h3>
+            <p class="text-sm leading-6 text-muted-foreground">Due in roughly 500 miles. Confirm interval against the owner manual and actual oil-life monitor.</p>
+          </div>
+          <div class="ledger-card">
+            <span class="safety-badge">Caution</span>
+            <h3>Tire pressure check</h3>
+            <p class="text-sm leading-6 text-muted-foreground">Heat and load changes can move pressure outside the recommended cold PSI. Verify against the driver-door placard.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
