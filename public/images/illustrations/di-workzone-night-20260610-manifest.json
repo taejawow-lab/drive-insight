@@ -1,0 +1,182 @@
+{
+  "generated_at": "2026-06-09T16:14:35Z",
+  "batch": "A",
+  "date": "2026-06-10",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "endpoint_redacted": "GTI13 direct ComfyUI endpoint recorded in root ops manifest; redacted for public report",
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1"
+  },
+  "site": "drive-insight",
+  "post": "src/content/posts/construction-zone-night-driving-lane-merge-safety-plan.mdx",
+  "slug": "construction-zone-night-driving-lane-merge-safety-plan",
+  "title": "Construction Zone Night Driving and Lane-Merge Safety Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-hero.png",
+      "filename": "di-workzone-night-20260610-hero.png",
+      "prompt": "realistic night highway construction zone from driver perspective with cones and lane taper, no readable signs, no dashboard text, safe distance",
+      "seed": 202606100113,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3f71cbcb-68a0-4523-9b96-ee7ace52ca39",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1803817,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-01.png",
+      "filename": "di-workzone-night-20260610-01.png",
+      "prompt": "realistic night road construction lane taper viewed from outside shoulder, orange cones and barrels, empty safe lane gap, no cars close, no readable signs, no workers, no text, no dashboard",
+      "seed": 202606101301,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "c3fd1a7e-6cc8-4d26-b21d-a3fd228de4bd",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive_regen_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1858428,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-02.png",
+      "filename": "di-workzone-night-20260610-02.png",
+      "prompt": "realistic lane merge zipper scene at dusk with vehicles spaced safely, no readable plates or signs",
+      "seed": 202606100115,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "849f9622-fa0c-43af-849c-bebf36bf76f6",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1851709,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-03.png",
+      "filename": "di-workzone-night-20260610-03.png",
+      "prompt": "realistic driver perspective through windshield at night approaching construction cones far ahead, both hands on wheel, dark blank dashboard with no visible numbers, no cones inside car, safe distance, no text",
+      "seed": 202606101302,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "6c675a34-3af9-48ca-950e-fdcfb1173141",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive_regen_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1272691,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-04.png",
+      "filename": "di-workzone-night-20260610-04.png",
+      "prompt": "realistic rain-glare night road construction scene with safe slow traffic, no readable signs or numbers",
+      "seed": 202606100117,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "7c702634-e3c3-4718-924b-53c267494fea",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1715531,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-workzone-night-20260610-05.png",
+      "filename": "di-workzone-night-20260610-05.png",
+      "prompt": "realistic pre-trip route planning still life with folded paper road map, car keys, and blank dark phone face down, no app screen, no map labels, no readable text",
+      "seed": 202606101303,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "ea9177ca-65d7-480d-8d4d-de3fc64420d0",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260610_drive_regen_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2639581,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Initial drive images 01/03/05 rejected for sign/UI/unsafe cone artifacts and regenerated; final contact sheet supersedes first pass."
+}
