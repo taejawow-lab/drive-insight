@@ -1,0 +1,179 @@
+{
+  "generated_at": "2026-06-10T16:14:21Z",
+  "batch": "A",
+  "date": "2026-06-11",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.2,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, exposed wires, raw meat beside produce, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, unsafe child restraint, child face closeup"
+  },
+  "endpoint": "REDACTED_DIRECT_GTI13",
+  "site": "drive-insight",
+  "post": "src/content/posts/summer-car-seat-road-trip-heat-installation-checklist.mdx",
+  "slug": "summer-car-seat-road-trip-heat-installation-checklist",
+  "title": "Summer Car Seat Road Trip Heat and Installation Checklist",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-hero.png",
+      "filename": "di-car-seat-heat-20260611-hero.png",
+      "prompt": "realistic parked car open rear door with child car seat empty, shaded driveway, caregiver checking straps, no child face, no logos no readable labels",
+      "seed": 202606110713,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "2897f26c-defd-4767-8fa8-1a21d3daeffe",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2172763,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-01.png",
+      "filename": "di-car-seat-heat-20260611-01.png",
+      "prompt": "realistic empty child car seat installation check in parked car, caregiver hands visible, no labels, no text",
+      "seed": 202606110714,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3ac51e47-66d0-4d52-914c-19de4ed21bb5",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1873818,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-02.png",
+      "filename": "di-car-seat-heat-20260611-02.png",
+      "prompt": "empty forward facing child car seat installed in rear seat of parked car; negative prompt excludes people/child/face/text",
+      "seed": 202606111777,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0025b615-7fca-4ee5-8620-9cc57a8c472a",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_fix2_drive_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1686354,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "drive-insight",
+      "qa_replaced": true
+    },
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-03.png",
+      "filename": "di-car-seat-heat-20260611-03.png",
+      "prompt": "realistic adult hand safely checking a warm car seat buckle and strap inside parked car, empty seat, no child, no labels, no text, no fuel door",
+      "seed": 202606111302,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "c4f59203-1816-4f1f-9433-00526e234cb4",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_fix_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1628385,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "drive-insight",
+      "qa_replaced": true
+    },
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-04.png",
+      "filename": "di-car-seat-heat-20260611-04.png",
+      "prompt": "realistic rest stop safety scene with parked car in shade and stroller silhouette, no signs no readable text",
+      "seed": 202606110717,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "6acfd161-8d1a-4ced-bad5-34ef00c56217",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1972846,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-car-seat-heat-20260611-05.png",
+      "filename": "di-car-seat-heat-20260611-05.png",
+      "prompt": "realistic back seat reminder setup with blank bag on front seat and empty car seat visible, no labels no text",
+      "seed": 202606110718,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "c3685b84-4ae1-4652-a27d-0e5d27373559",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260611_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1579927,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.2,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa": "Passed final contact-sheet QA after regeneration/exclusions noted in central report; no placeholder/SVG images counted."
+}
