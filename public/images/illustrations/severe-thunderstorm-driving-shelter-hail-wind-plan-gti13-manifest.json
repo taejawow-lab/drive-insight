@@ -1,0 +1,146 @@
+{
+  "site": "drive-insight",
+  "date": "2026-06-12",
+  "host": "gti13",
+  "endpoint": "direct ComfyUI (redacted in report)",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "article": "severe-thunderstorm-driving-shelter-hail-wind-plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-hero.png",
+      "filename": "di-thunderstorm-driving-20260612-hero.png",
+      "prompt": "parked car in safe covered parking during storm, no readable signs, no license plate text",
+      "seed": 202606120301,
+      "prompt_id": "05620ac6-b648-459d-95b3-31ed11ae59c2",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1868508,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-01.png",
+      "filename": "di-thunderstorm-driving-20260612-01.png",
+      "prompt": "driver planning with weather radio shape and blank phone face down, keys, no screen UI",
+      "seed": 202606120302,
+      "prompt_id": "a36210be-15ff-430b-9db1-2a8a4fd8fea3",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1707916,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-02.png",
+      "filename": "di-thunderstorm-driving-20260612-02.png",
+      "prompt": "roadside safe pull off scene with distant rain clouds, no signs, no people in lane",
+      "seed": 202606120303,
+      "prompt_id": "3dbba463-b770-4c7b-ac3a-c739a84eaea7",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1570279,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-03.png",
+      "filename": "di-thunderstorm-driving-20260612-03.png",
+      "prompt": "hail protection scene with car under sturdy garage-like cover, no brand marks",
+      "seed": 202606120304,
+      "prompt_id": "a83f2894-6a88-4148-bbf2-286854996444",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2294063,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-04.png",
+      "filename": "di-thunderstorm-driving-20260612-04.png",
+      "prompt": "post storm vehicle check with flashlight and plain tire area, no license plates",
+      "seed": 202606120305,
+      "prompt_id": "15b09c58-0e93-4d42-b3b0-165836368eca",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1799612,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-thunderstorm-driving-20260612-05.png",
+      "filename": "di-thunderstorm-driving-20260612-05.png",
+      "prompt": "storm travel decision flat lay with blank map, flashlight, water, no text",
+      "seed": 202606120306,
+      "prompt_id": "50cb401a-6f3f-405f-b1bb-3d48b4c6140a",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2459913,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260612_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260612-drive-insight-contact-sheet.jpg",
+  "visual_qa_status": "contact-sheet inspected by workflow before staging; no text-heavy images intentionally prompted; parent report will cite final visual QA."
+}
