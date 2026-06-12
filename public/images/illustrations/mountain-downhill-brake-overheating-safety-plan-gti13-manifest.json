@@ -1,0 +1,258 @@
+{
+  "slug": "mountain-downhill-brake-overheating-safety-plan",
+  "title": "Mountain Downhill Brake Overheating Safety Plan",
+  "post": "src/content/posts/mountain-downhill-brake-overheating-safety-plan.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-hero.png",
+      "filename": "di-downhill-brake-heat-20260613-hero.png",
+      "prompt": "realistic empty mountain road scenic pullout with plain parked car cropped from rear side, no visible logo, no license plate, no road signs, safe daylight, no people",
+      "positive_prompt": "realistic empty mountain road scenic pullout with plain parked car cropped from rear side, no visible logo, no license plate, no road signs, safe daylight, no people, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606132201,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "a51a129a-660c-44f0-aa88-8ec36844b6e2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive_insight_qa_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2198941,
+      "qa_regenerated": true
+    },
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-01.png",
+      "filename": "di-downhill-brake-heat-20260613-01.png",
+      "prompt": "realistic driver pre trip inspection near mountain road, tire and cargo check, no readable labels or plates",
+      "positive_prompt": "realistic driver pre trip inspection near mountain road, tire and cargo check, no readable labels or plates, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606131114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "317df919-af47-4593-9503-dec01c6a52bf",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1927299
+    },
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-02.png",
+      "filename": "di-downhill-brake-heat-20260613-02.png",
+      "prompt": "realistic safe downhill driving scene from outside vehicle, road curve, no dashboard screens, no signs with text",
+      "positive_prompt": "realistic safe downhill driving scene from outside vehicle, road curve, no dashboard screens, no signs with text, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606131115,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "acca9f04-9932-494a-9871-dcc7ec57ccbf",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1645817
+    },
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-03.png",
+      "filename": "di-downhill-brake-heat-20260613-03.png",
+      "prompt": "realistic mountain pullout rest scene with car parked away from traffic, hood closed, no warning labels",
+      "positive_prompt": "realistic mountain pullout rest scene with car parked away from traffic, hood closed, no warning labels, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606131116,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "c90bde4a-085c-46a6-b277-a49b7fac477c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2045683
+    },
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-04.png",
+      "filename": "di-downhill-brake-heat-20260613-04.png",
+      "prompt": "realistic shaded mountain roadside rest area with plain water bottle without label on picnic table, parked car cropped in background, no logos no license plates no text",
+      "positive_prompt": "realistic shaded mountain roadside rest area with plain water bottle without label on picnic table, parked car cropped in background, no logos no license plates no text, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606132202,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "5005539b-9084-463c-a4ab-2098aa8a36ec",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive_insight_qa_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1721645,
+      "qa_regenerated": true
+    },
+    {
+      "file": "public/images/illustrations/di-downhill-brake-heat-20260613-05.png",
+      "filename": "di-downhill-brake-heat-20260613-05.png",
+      "prompt": "realistic route planning flat lay with blank map shapes, keys, sunglasses, no route names or numbers",
+      "positive_prompt": "realistic route planning flat lay with blank map shapes, keys, sunglasses, no route names or numbers, professional realistic editorial photography, text-free safe factual scene",
+      "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup",
+      "seed": 202606131118,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "prompt_id": "3c109866-149e-4669-86d1-2633fc42c4f9",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260613_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2711536
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260613-drive-insight-contact-sheet.jpg",
+  "preflight": {
+    "cmd": [
+      "python3",
+      "bin/preflight_topic_quality_gate.py",
+      "--site",
+      "drive-insight",
+      "--slug",
+      "mountain-downhill-brake-overheating-safety-plan",
+      "--title",
+      "Mountain Downhill Brake Overheating Safety Plan"
+    ],
+    "rc": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"drive-insight\",\n  \"slug\": \"mountain-downhill-brake-overheating-safety-plan\",\n  \"title\": \"Mountain Downhill Brake Overheating Safety Plan\",\n  \"candidate_tokens\": [\n    \"brake\",\n    \"downhill\",\n    \"mountain\",\n    \"overheating\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  },
+  "source_results": [
+    {
+      "url": "https://www.nhtsa.gov/vehicle-safety",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/tires",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nhtsa.gov/summer-driving-tips",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://mutcd.fhwa.dot.gov/",
+      "status": 200,
+      "final": "https://mutcd.fhwa.dot.gov/"
+    },
+    {
+      "url": "https://www.ready.gov/car",
+      "status": 200,
+      "final": "https://www.ready.gov/car"
+    },
+    {
+      "url": "https://www.nps.gov/articles/drivingsafety.htm",
+      "status": 200,
+      "final": "https://www.nps.gov/articles/drivingsafety.htm"
+    },
+    {
+      "url": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving/",
+      "status": 200,
+      "final": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/safe-driving/"
+    },
+    {
+      "url": "https://www.weather.gov/safety/heat",
+      "status": 200,
+      "final": "https://www.weather.gov/safety/heat"
+    }
+  ],
+  "visual_qa_summary": "Initial contact sheet rejected hero for visible brand/license-style risk and 04 for labeled bottle/text-like artifact; both regenerated via GTI13 and final contact sheet created.",
+  "gate": {
+    "host": "gti13",
+    "time": 1781280999,
+    "available": true,
+    "reason": "ok",
+    "manual_pause": false,
+    "gaming_detected": false,
+    "game_processes": [],
+    "gpu": {
+      "available": true,
+      "name": "NVIDIA GeForce RTX 4090",
+      "vram_total_mb": 24564,
+      "vram_free_mb": 15247,
+      "utilization_percent": 0
+    },
+    "services": {
+      "comfyui_8188": true,
+      "ollama_11434": true
+    }
+  },
+  "host": "gti13",
+  "endpoint": "redacted-gti13-direct-8188",
+  "workflow": {
+    "steps": 26,
+    "cfg": 5.0,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe wiring, raw meat beside produce, exposed wires, wrong dashboard, fake warning labels, documents, receipts, forms, calculator, currency, license plates, readable signs, child face closeup"
+  },
+  "qa_regenerated_at": "2026-06-12T16:20:33Z",
+  "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260613-drive-insight-contact-sheet-final.jpg"
+}
