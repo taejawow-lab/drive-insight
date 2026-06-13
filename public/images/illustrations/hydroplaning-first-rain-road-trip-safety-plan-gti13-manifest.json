@@ -1,0 +1,163 @@
+{
+  "date": "2026-06-14",
+  "site": "drive-insight",
+  "slug": "hydroplaning-first-rain-road-trip-safety-plan",
+  "host": "gti13",
+  "endpoint": "redacted-direct-gti13-comfyui",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, gauge numbers, thermometer numbers"
+  },
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1"
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-hero.png",
+      "filename": "di-hydroplaning-first-rain-20260614-hero.png",
+      "prompt": "realistic wet road after first rain with parked car at safe distance, water sheen, no readable road signs, no license plates, no dashboard view",
+      "seed": 202606140113,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "48b0059e-6c5b-4a10-866c-8d060fd7618d",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 2067287,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-01.png",
+      "filename": "di-hydroplaning-first-rain-20260614-01.png",
+      "prompt": "realistic wet highway lane from outside vehicle perspective with rain sheen and safe spacing, no readable signs no plates",
+      "seed": 202606140114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "15f88dd6-711c-4216-8d54-ecf5ba3d63b8",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1771247,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-02.png",
+      "filename": "di-hydroplaning-first-rain-20260614-02.png",
+      "prompt": "realistic pre-trip tire tread check with coin-like plain token no numbers, no brand logos, no text",
+      "seed": 202606140115,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "bee0bf62-e81a-4d6a-86b3-74308b7b8c5c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1767560,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-03.png",
+      "filename": "di-hydroplaning-first-rain-20260614-03.png",
+      "prompt": "realistic rain road trip preparation flat lay with car keys, blank dark phone face down, clean wiper blade, folded towel, no dashboard, no UI, no numbers, no text",
+      "seed": 202606149003,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "961a34d8-ea71-4c56-a014-35c71a66fe25",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_fix_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_after_visual_qa",
+      "bytes": 2266667,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-04.png",
+      "filename": "di-hydroplaning-first-rain-20260614-04.png",
+      "prompt": "realistic car safely parked in dry covered parking area while heavy rain falls outside, no driving through water, no signs, no license plates, no text",
+      "seed": 202606149004,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "aa55037f-19a7-43c2-ae9c-06e153aefbb0",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_fix_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok_regenerated_after_visual_qa",
+      "bytes": 1944061,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-hydroplaning-first-rain-20260614-05.png",
+      "filename": "di-hydroplaning-first-rain-20260614-05.png",
+      "prompt": "realistic following distance scene on wet road with blurred vehicles far apart, no license plates no signs",
+      "seed": 202606140118,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3df6c6a8-11c9-47d2-bfa2-ff0f9b361661",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260614_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "bytes": 1730712,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa": "accepted after contact-sheet QA; bodywiselab 01 and greenlivingtrend 01 regenerated twice; cooknestdaily 01 and drive-insight 03/04 regenerated once; final2 sheets accepted for affected sites."
+}
