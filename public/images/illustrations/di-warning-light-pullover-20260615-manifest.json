@@ -1,0 +1,183 @@
+{
+  "generated_at": "2026-06-14T16:15:01Z",
+  "batch": "A",
+  "date": "2026-06-15",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.05,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels, clock face numbers, watch face, phone screen, app interface, dashboard numbers, appliance control panel, warning label text"
+  },
+  "endpoint": "redacted-direct-gti13-comfyui",
+  "site": "drive-insight",
+  "slug": "dashboard-warning-light-safe-pull-over-plan",
+  "title": "Dashboard Warning Light Safe Pull Over Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-hero.png",
+      "filename": "di-warning-light-pullover-20260615-hero.png",
+      "prompt": "realistic wide empty rest area parking space with cropped side of car only front and rear plates out of frame, safe open pavement, no signs, no text, no logos",
+      "seed": 202606150403,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "7b308194-8166-431c-80a3-68b5d3855ec2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix2_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2035742,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Second regeneration after strict final visual QA."
+    },
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-01.png",
+      "filename": "di-warning-light-pullover-20260615-01.png",
+      "prompt": "realistic driver calmly steering toward a wide safe shoulder, exterior view only, no dashboard, no signs, no license plates",
+      "seed": 202606150114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3c6386ee-e212-48e8-963c-230bb560d257",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1570045,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.05,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-02.png",
+      "filename": "di-warning-light-pullover-20260615-02.png",
+      "prompt": "realistic safe pull over concept with cropped car side on wide shoulder, license plates out of frame, no signs, no people, no traffic, open daylight, no text",
+      "seed": 202606150404,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "a3818da2-85d8-4ba5-97c4-e18496e00411",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix2_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1672302,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Second regeneration after strict final visual QA."
+    },
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-03.png",
+      "filename": "di-warning-light-pullover-20260615-03.png",
+      "prompt": "realistic vehicle manual as a closed plain booklet with car keys and blank card on table, no readable text, no car plates, no screens, no documents with writing",
+      "seed": 202606150305,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "a2f6a0e9-59c7-4f64-9293-2dabb92bcee2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1597124,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet visual QA rejected original tile for text/UI/license/cross-contamination risk."
+    },
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-04.png",
+      "filename": "di-warning-light-pullover-20260615-04.png",
+      "prompt": "realistic roadside kit still life with reflective vest folded plain, flashlight, keys, phone face down completely dark, no cards, no text, no logos",
+      "seed": 202606150306,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0ea69033-1999-49c0-9ded-498bd0201705",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_visualfix_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2492790,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "qa_replacement": true,
+      "qa_note": "Regenerated after contact-sheet visual QA rejected original tile for text/UI/license/cross-contamination risk."
+    },
+    {
+      "file": "public/images/illustrations/di-warning-light-pullover-20260615-05.png",
+      "filename": "di-warning-light-pullover-20260615-05.png",
+      "prompt": "realistic repair decision scene with car parked in driveway, hood closed, plain notebook, no readable labels, no license plate",
+      "seed": 202606150118,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "052a9b03-689b-48f9-b95d-c1fad1ff91a5",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260615_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1988023,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.05,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Final2 contact sheet updated after visual QA replacements; accepted assets match MDX references and manifest.",
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260615-drive-insight-contact-sheet-final2.jpg"
+}
