@@ -1,0 +1,203 @@
+{
+  "slug": "railroad-crossing-road-trip-safety-checklist",
+  "title": "Railroad Crossing Road-Trip Safety Checklist",
+  "post": "src/content/posts/railroad-crossing-road-trip-safety-checklist.mdx",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-hero.png",
+      "filename": "di-railroad-crossing-20260616-hero.png",
+      "prompt": "realistic rural railroad crossing approach from far safe distance with vehicle stopped well back, no signs visible, no readable text, no license plate, no dashboard",
+      "seed": 202606161004,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "946ce51a-e93d-42fe-8e13-bd7f5a9c0c8b",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_final_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok-final-regenerated",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2177106,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-01.png",
+      "filename": "di-railroad-crossing-20260616-01.png",
+      "prompt": "realistic rural road approach to railroad tracks from safe distance, no readable signs no numbers",
+      "seed": 202606160114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "ab9d78b0-db68-413f-be54-ede571ffd5c8",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2698243,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-02.png",
+      "filename": "di-railroad-crossing-20260616-02.png",
+      "prompt": "realistic road trip planning still life with car keys on plain wooden table, blank paper cards only, no map text, no tickets, no numbers, no readable text",
+      "seed": 202606161005,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "eab1b839-d80a-4f47-83b8-076559166f64",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_final_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok-final-regenerated",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1936753,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-03.png",
+      "filename": "di-railroad-crossing-20260616-03.png",
+      "prompt": "realistic nighttime railroad crossing viewed from far safe distance with lights abstracted, no readable signals",
+      "seed": 202606160116,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "8c82dc2b-89d1-4d2e-a8c3-6a3354c7a74c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1855760,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-04.png",
+      "filename": "di-railroad-crossing-20260616-04.png",
+      "prompt": "realistic rainy rural crossing road scene with vehicle waiting safely back, no license plates no text",
+      "seed": 202606160117,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "041df63a-daea-484a-b555-cb980127ead9",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1552085,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-railroad-crossing-20260616-05.png",
+      "filename": "di-railroad-crossing-20260616-05.png",
+      "prompt": "realistic safe pull-over reset still life inside parked car with phone face down on passenger seat, keys, plain blank card, no railroad tracks visible, no screen, no text, no numbers, no license plate",
+      "seed": 202606161101,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "10742580-5b89-4606-b5ff-a45f9f6cd6ef",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260616_final2_drive_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok-final2-regenerated",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1729713,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260616-drive-insight-contact-sheet.jpg",
+  "source_validation": [
+    {
+      "url": "https://railroads.dot.gov/highway-rail-crossing-and-trespasser-programs/railroad-crossing-safety/highway-rail-grade",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://railroads.dot.gov/rail-network-development/freight-rail-overview/rail-safety",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/railroad-crossing-safety",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://oli.org/safety-near-trains",
+      "status": 200,
+      "final": "https://oli.org/safety-near-trains"
+    },
+    {
+      "url": "https://www.fmcsa.dot.gov/safety/driver-safety/railroad-crossing-safety",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://www.nhtsa.gov/risky-driving/speeding",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    },
+    {
+      "url": "https://highways.dot.gov/safety/local-rural/rural-road-safety",
+      "status": "caveat",
+      "error": "HTTPError: HTTP Error 403: Forbidden"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet regenerated after QA replacements; accepted for staging if final inspection passes.",
+  "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260616-drive-insight-contact-sheet-final.jpg",
+  "contact_sheet_final2": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260616-drive-insight-contact-sheet-final2.jpg"
+}
