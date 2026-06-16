@@ -1,0 +1,195 @@
+{
+  "site": "drive-insight",
+  "slug": "construction-zone-night-driving-lane-merge-safety-plan",
+  "source": "GTI13 direct ComfyUI",
+  "host": "gti13",
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "sentinel_url": "http://192.168.50.30:9199/status",
+    "comfy_url": "http://192.168.50.29:8188",
+    "services": {
+      "comfyui_8188": true,
+      "sentinel_9199": false
+    },
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1",
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ],
+    "queue": {
+      "queue_running": [],
+      "queue_pending": []
+    }
+  },
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-hero.png",
+      "filename": "di-construction-night-merge-20260617-hero.png",
+      "prompt": "realistic night road construction approach from safe distance, blurred cones, vehicle parked safely, no readable signs, no dashboard numbers, no logos, no text",
+      "seed": 202606170113,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "521169aa-f1ce-407f-809f-d597c8cb827b",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1726032,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-01.png",
+      "filename": "di-construction-night-merge-20260617-01.png",
+      "prompt": "realistic night construction zone lane merge from safe distance with cones and work lights, no readable signs, no text",
+      "seed": 202606170114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "775b6623-d261-4625-8348-77b9978dc61f",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1700353,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-02.png",
+      "filename": "di-construction-night-merge-20260617-02.png",
+      "prompt": "realistic pre-trip preparation flat lay on table: car keys, clean windshield cloth, blank folded route map with no readable markings, closed notebook, no person, no driving, no screens, no text",
+      "seed": 202606170303,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "5aa69ab1-0017-49ce-8b69-16b783919c10",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260617_regen_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2426616,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-03.png",
+      "filename": "di-construction-night-merge-20260617-03.png",
+      "prompt": "realistic highway shoulder work zone scene with cones and workers far away, no readable signs, no brand logos",
+      "seed": 202606170116,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "3921d084-80e4-420e-910f-d6c152d9f300",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1973892,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-04.png",
+      "filename": "di-construction-night-merge-20260617-04.png",
+      "prompt": "realistic car headlights on dark road with lane markers and orange barrels, no dashboard view, no numbers",
+      "seed": 202606170117,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "47937c47-e569-499c-9b36-99fc38904adc",
+      "comfy_output": {
+        "filename": "hermes_batch_a_retry_20260617_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1490443,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-construction-night-merge-20260617-05.png",
+      "filename": "di-construction-night-merge-20260617-05.png",
+      "prompt": "realistic parked-car safety reminder still life outside vehicle: keys, face-down dark phone, blank card, reflective vest folded, no dashboard, no screens, no readable text, no logos",
+      "seed": 202606170304,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "4451e257-e788-4dab-bbae-0e74b6846b54",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260617_regen_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1650981,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "visual_qa_summary": "Final contact sheet inspected; initially rejected assets regenerated and final set accepted for publication."
+}
