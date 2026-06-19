@@ -1,0 +1,227 @@
+{
+  "generated_at": "2026-06-19T16:14:57Z",
+  "batch": "A 20260620 cron",
+  "date": "2026-06-20",
+  "host": "gti13",
+  "direct_comfyui": true,
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "workflow": {
+    "steps": 24,
+    "cfg": 5.1,
+    "sampler": "dpmpp_2m",
+    "scheduler": "karras",
+    "negative_prompt": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat beside produce, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, brand marks, product packaging labels"
+  },
+  "gate": {
+    "available": true,
+    "reason": "sentinel_unreachable_but_direct_comfyui_ok",
+    "sentinel_url": "http://192.168.50.30:9199/status",
+    "comfy_url": "http://192.168.50.29:8188",
+    "services": {
+      "comfyui_8188": true,
+      "sentinel_9199": false
+    },
+    "manual_pause": false,
+    "direct_fallback": true,
+    "comfyui_version": "0.20.1",
+    "devices": [
+      {
+        "name": "cuda:0 NVIDIA GeForce RTX 4090 : cudaMallocAsync",
+        "type": "cuda",
+        "index": 0,
+        "vram_total": 25756696576,
+        "vram_free": 17098519522,
+        "torch_vram_total": 6979321856,
+        "torch_vram_free": 31896546
+      }
+    ],
+    "queue": {
+      "queue_running": [],
+      "queue_pending": []
+    }
+  },
+  "preflight": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"drive-insight\",\n  \"slug\": \"school-zone-summer-camp-pickup-driving-safety-plan\",\n  \"title\": \"School Zone Summer Camp Pickup Driving Safety Plan\",\n  \"candidate_tokens\": [\n    \"camp\",\n    \"pickup\",\n    \"school\",\n    \"zone\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  },
+  "site": "drive-insight",
+  "post": "src/content/posts/school-zone-summer-camp-pickup-driving-safety-plan.mdx",
+  "slug": "school-zone-summer-camp-pickup-driving-safety-plan",
+  "title": "School Zone Summer Camp Pickup Driving Safety Plan",
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-hero.png",
+      "filename": "di-school-camp-pickup-20260620-hero.png",
+      "prompt": "realistic summer school pickup driving scene with parked car, crosswalk-like pavement without signs or words, shaded sidewalk, no readable signs, no license plates",
+      "seed": 202606200113,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "326b0e42-91c9-4fbe-8098-4f4c0fb33c72",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1975649,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-01.png",
+      "filename": "di-school-camp-pickup-20260620-01.png",
+      "prompt": "realistic parked car near summer camp pickup area with blank building facade, no signs, no license plates, no children closeups",
+      "seed": 202606200114,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "baaf576e-705d-42c3-a97b-6dedcd624149",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1931207,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-02.png",
+      "filename": "di-school-camp-pickup-20260620-02.png",
+      "prompt": "realistic driver handoff planning flat lay with keys, water, blank card, no phone UI, no text",
+      "seed": 202606200115,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "73b88fb4-0519-4852-b892-c2c30f76c0ae",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2068039,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-03.png",
+      "filename": "di-school-camp-pickup-20260620-03.png",
+      "prompt": "realistic quiet residential summer pickup street with parked cars and cyclists far away, no traffic signs, no readable text, no license plates, no close people, safe distance, editorial photo",
+      "seed": 202606209003,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "97fc13c1-8adc-42b1-9a81-7b9b1bb827b2",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_final_drive-insight_di-school-camp-pickup-20260620-03.png_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1835164,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-04.png",
+      "filename": "di-school-camp-pickup-20260620-04.png",
+      "prompt": "realistic shaded waiting area with vehicle safely parked and face-down dark phone, no text, no logos",
+      "seed": 202606200117,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "55d40725-f17f-4576-b631-7ace01d625c5",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1618240,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-school-camp-pickup-20260620-05.png",
+      "filename": "di-school-camp-pickup-20260620-05.png",
+      "prompt": "realistic rear seat safety check still life in parked car, empty child seat from side, backpack and water bottle, no children, no faces, no labels, no readable text, no logos",
+      "seed": 202606209004,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "d325c715-47ad-4f50-a342-225ae7e5dce8",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260620_final_drive-insight_di-school-camp-pickup-20260620-05.png_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1729854,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "sources": [
+    "https://www.nhtsa.gov/school-bus-safety/back-school-safety",
+    "https://www.nhtsa.gov/risky-driving/distracted-driving",
+    "https://www.nhtsa.gov/road-safety/pedestrian-safety",
+    "https://www.nhtsa.gov/road-safety/bicycle-safety",
+    "https://www.nhtsa.gov/road-safety/child-safety",
+    "https://www.cdc.gov/heat-health/about/index.html",
+    "https://www.saferoutespartnership.org/safe-routes-school",
+    "https://highways.dot.gov/safety/pedestrian-bicyclist"
+  ],
+  "visual_qa_summary": "Initial QA rejected unsafe/mismatched assets; listed final assets were regenerated and require final contact-sheet pass.",
+  "regenerated_after_visual_qa": [
+    {
+      "site": "drive-insight",
+      "filename": "di-school-camp-pickup-20260620-03.png"
+    },
+    {
+      "site": "drive-insight",
+      "filename": "di-school-camp-pickup-20260620-05.png"
+    }
+  ]
+}
