@@ -1,0 +1,203 @@
+{
+  "site": "drive-insight",
+  "date": "2026-06-21",
+  "slug": "tornado-warning-driving-shelter-decision-plan",
+  "title": "Tornado Warning Driving Shelter Decision Plan",
+  "endpoint_host": "gti13-direct-comfyui",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "assets": [
+    {
+      "filename": "di-tornado-driving-20260621-hero.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-hero.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-hero.png",
+      "prompt": "realistic parked car near sturdy public building during dark storm clouds, driver safely outside frame, no readable signs no license plates no dashboard no text",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622300,
+      "prompt_id": "ef61654f-8183-428d-917f-e292de013951",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "di-tornado-driving-20260621-01.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-01.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-01.png",
+      "prompt": "realistic parked car in a safe parking lot beside sturdy public building while distant storm clouds approach, no funnel close to car, no readable signs, no people, no license plates",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622897,
+      "prompt_id": "ff52e4f2-f153-441c-95c8-f3019b5332c5",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-01-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    },
+    {
+      "filename": "di-tornado-driving-20260621-02.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-02.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-02.png",
+      "prompt": "realistic public shelter approach with sturdy building entrance cropped without readable signs, parked vehicle, no logos no text",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622302,
+      "prompt_id": "fc47ccd3-fdd7-4f28-817f-be027d91be40",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "di-tornado-driving-20260621-03.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-03.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-03.png",
+      "prompt": "realistic empty roadway near storm clouds with car turning into sturdy building parking lot, no overpass, no underpass, no readable signs, no people in danger",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622899,
+      "prompt_id": "069704cd-dbcf-41a4-ba56-b6d1974c05e4",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-03-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    },
+    {
+      "filename": "di-tornado-driving-20260621-04.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-04.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-04.png",
+      "prompt": "realistic emergency kit still life with flashlight, water, shoes, power bank, blank cards, no labels no text",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622304,
+      "prompt_id": "1a0be21d-df62-4472-a3cc-1fc6ed3cad38",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "filename": "di-tornado-driving-20260621-05.png",
+      "path": "public/images/illustrations/di-tornado-driving-20260621-05.png",
+      "render_url": "/images/illustrations/di-tornado-driving-20260621-05.png",
+      "prompt": "realistic family travel tornado stop decision still life inside safe building hallway, bags and shoes and water on floor, no faces, no windows, no text, no signs",
+      "negative": "text, words, letters, numbers, logo, watermark, brand name, readable labels, screen text, UI screenshot, distorted interface, fake labels, bad hands, bad anatomy, extra fingers, low quality, blurry, cartoon, placeholder, generic stock art, calendar grid, handwriting, QR code, payment screen, login form, medical chart text, unsafe posture, raw meat near cooked food, unsafe wiring, exposed wires, vehicle dashboard numbers, road sign text, license plate, currency, receipt, form, calculator numbers, product packaging labels",
+      "seed": 622901,
+      "prompt_id": "c52c474f-d484-4ad7-85fc-31ded4314cfc",
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "endpoint_host": "gti13-direct-comfyui",
+      "basic_qa": {
+        "size": [
+          1536,
+          864
+        ],
+        "ok": true
+      },
+      "comfy_output": {
+        "filename": "di-tornado-driving-20260621-05-regen_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "visual_qa": "regenerated_after_contact_sheet_rejection"
+    }
+  ],
+  "contact_sheet": "public/images/illustrations/di-tornado-driving-20260621-contact-sheet.jpg",
+  "visual_qa": "PASS: final contact sheet inspected; regenerated rejected unsafe/mismatched tiles before build",
+  "qa_replacements": [
+    {
+      "site": "cooknestdaily",
+      "file": "public/images/illustrations/cnd-burger-leftover-20260621-04.png",
+      "prompt_id": "dec97fb5-0023-4c4e-af55-6c48d0e71457"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-01.png",
+      "prompt_id": "ff52e4f2-f153-441c-95c8-f3019b5332c5"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-03.png",
+      "prompt_id": "069704cd-dbcf-41a4-ba56-b6d1974c05e4"
+    },
+    {
+      "site": "drive-insight",
+      "file": "public/images/illustrations/di-tornado-driving-20260621-05.png",
+      "prompt_id": "c52c474f-d484-4ad7-85fc-31ded4314cfc"
+    }
+  ]
+}
