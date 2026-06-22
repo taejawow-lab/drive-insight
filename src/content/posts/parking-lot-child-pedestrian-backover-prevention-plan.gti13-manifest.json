@@ -1,0 +1,218 @@
+{
+  "slug": "parking-lot-child-pedestrian-backover-prevention-plan",
+  "title": "Parking Lot Child Pedestrian Backover Prevention Plan",
+  "post": "src/content/posts/parking-lot-child-pedestrian-backover-prevention-plan.mdx",
+  "word_count": 1550,
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-hero.png",
+      "filename": "di-parking-child-backover-20260623-hero.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-hero.png",
+      "prompt": "realistic safe parking lot scene with parked vehicle, shopping cart corral, adult hand holding child at distance, no license plates, no readable signs, no faces closeup",
+      "seed": 202606230101,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "10f17ccf-b9a7-4e1d-bebf-4fa426119dab",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1795344,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-01.png",
+      "filename": "di-parking-child-backover-20260623-01.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-01.png",
+      "prompt": "realistic generic unbranded parked hatchback viewed from rear corner in empty parking lot, no logo, no license plate, blank wall, clear rear blind zone, no text",
+      "seed": 202606231503,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "687d204f-29a2-4987-9e83-6058eece08f9",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_final_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_final_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1450954,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-02.png",
+      "filename": "di-parking-child-backover-20260623-02.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-02.png",
+      "prompt": "realistic adult holding child hand near store walkway, parked cars blurred, no readable storefront text no faces closeup",
+      "seed": 202606230103,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f2cbcdb6-0967-46cc-8f56-f467d35e8700",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1548807,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-03.png",
+      "filename": "di-parking-child-backover-20260623-03.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-03.png",
+      "prompt": "realistic driver shoulder-check and side mirror safety concept in parking lot from outside generic unbranded vehicle, dark blank windows, no dashboard UI, no road signs, no license plate",
+      "seed": 202606231504,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "6094e3cb-aa9f-4b7e-9ffb-218e6a97a8ac",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_final_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "regenerated_final_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1295483,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-04.png",
+      "filename": "di-parking-child-backover-20260623-04.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-04.png",
+      "prompt": "realistic shopping cart corral and pedestrian walkway in sunny lot, no readable signs no brand logos",
+      "seed": 202606230105,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0ade58ed-8302-40d8-93aa-b8c7b25d1f5c",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2387452,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-parking-child-backover-20260623-05.png",
+      "filename": "di-parking-child-backover-20260623-05.png",
+      "render_url": "/images/illustrations/di-parking-child-backover-20260623-05.png",
+      "prompt": "realistic safe loading groceries scene with child waiting on sidewalk with adult, no faces closeup no license plates",
+      "seed": 202606230106,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "de4610ca-b194-48aa-a8e7-2a63fd5c7275",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260623_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1638010,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    }
+  ],
+  "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260623-drive-insight-contact-sheet.jpg",
+  "source_validation": [
+    {
+      "url": "https://www.nhtsa.gov/road-safety/backover",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "ok": true,
+      "caveat": "script_client_403"
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/child-safety",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "ok": true,
+      "caveat": "script_client_403"
+    },
+    {
+      "url": "https://www.nhtsa.gov/road-safety/pedestrian-safety",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "ok": true,
+      "caveat": "script_client_403"
+    },
+    {
+      "url": "https://www.cdc.gov/child-passenger-safety/index.html",
+      "status": 200,
+      "effective_url": "https://www.cdc.gov/child-passenger-safety/about/index.html",
+      "ok": true
+    },
+    {
+      "url": "https://www.cdc.gov/transportation-safety/index.html",
+      "status": 200,
+      "effective_url": "https://www.cdc.gov/transportation-safety/index.html",
+      "ok": true
+    },
+    {
+      "url": "https://www.kidsandcars.org/statistics",
+      "status": 200,
+      "effective_url": "https://www.kidsandcars.org/statistics",
+      "ok": true
+    },
+    {
+      "url": "https://www.iihs.org/ratings/rear-crash-prevention",
+      "status": 200,
+      "effective_url": "https://www.iihs.org/ratings/rear-crash-prevention",
+      "ok": true
+    },
+    {
+      "url": "https://www.nsc.org/road/safety-topics/distracted-driving",
+      "error": "HTTPError: HTTP Error 403: Forbidden",
+      "ok": true,
+      "caveat": "script_client_403"
+    }
+  ],
+  "status": "generated_pending_visual_qa",
+  "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260623-drive-insight-contact-sheet-final.jpg",
+  "visual_qa": "regenerated rejected panels; final contact sheet pending inspection"
+}
