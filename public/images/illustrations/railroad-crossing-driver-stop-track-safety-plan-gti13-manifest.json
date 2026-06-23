@@ -1,0 +1,284 @@
+{
+  "site": "drive-insight",
+  "slug": "railroad-crossing-driver-stop-track-safety-plan",
+  "title": "Railroad Crossing Driver Stop Track Safety Plan",
+  "date": "2026-06-24",
+  "host": "gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": [
+    1536,
+    864
+  ],
+  "gate": {
+    "host": "gti13",
+    "time": 1782231650,
+    "available": true,
+    "reason": "ok",
+    "manual_pause": false,
+    "gaming_detected": false,
+    "game_processes": [],
+    "gpu": {
+      "available": true,
+      "name": "NVIDIA GeForce RTX 4090",
+      "vram_total_mb": 24564,
+      "vram_free_mb": 15509,
+      "utilization_percent": 0
+    },
+    "services": {
+      "comfyui_8188": true,
+      "ollama_11434": true
+    }
+  },
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-hero.png",
+      "filename": "di-rail-crossing-20260624-hero.png",
+      "prompt": "empty railroad crossing approach, no vehicles/signs/text, safe decision metaphor",
+      "seed": 202606249101,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "0642d9db-fbb1-4ba8-88c8-f78f5017754e",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_regen_drive-insight_di-rail-crossing-20260624-hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "replaced_after_final_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2495621,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "drive-insight"
+    },
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-01.png",
+      "filename": "di-rail-crossing-20260624-01.png",
+      "prompt": "realistic driver approach to railroad tracks from safe distance on quiet road, no signs, no letters, no license plates, no train, no dashboard display, calm safety scene",
+      "seed": 202606249004,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "e7b05684-616f-4ba5-a325-c337b8028e78",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_regen_drive-insight_di-rail-crossing-20260624-01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "replaced_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2018140,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "drive-insight"
+    },
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-02.png",
+      "filename": "di-rail-crossing-20260624-02.png",
+      "prompt": "realistic car waiting behind pavement line before tracks with blank sign shapes, no text no logos",
+      "seed": 202606240115,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "6b3dbf18-c608-483d-8dc6-7c7a8f659c74",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1936553,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-03.png",
+      "filename": "di-rail-crossing-20260624-03.png",
+      "prompt": "realistic emergency planning flat lay with keys, flashlight, phone face down, blank card, no readable text",
+      "seed": 202606240116,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "f73dd6ad-7b0f-4ee2-aeba-8a0bb3d8ec5d",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1978657,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-04.png",
+      "filename": "di-rail-crossing-20260624-04.png",
+      "prompt": "realistic road approach scene with tracks visible and clear weather, no train collision no warning text",
+      "seed": 202606240117,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "5ac05fb1-a25b-4be6-b198-f94dd42685f3",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "ok",
+      "width": 1536,
+      "height": 864,
+      "bytes": 2066222,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras"
+    },
+    {
+      "file": "public/images/illustrations/di-rail-crossing-20260624-05.png",
+      "filename": "di-rail-crossing-20260624-05.png",
+      "prompt": "realistic parked car interior safety planning scene with dark blank dashboard, keys and phone face down on seat, no screens, no numbers, no text, no instrument cluster details",
+      "seed": 202606249005,
+      "dimensions": [
+        1536,
+        864
+      ],
+      "prompt_id": "86aa774b-002a-4aad-9968-a3e0ef3d0745",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260624_regen_drive-insight_di-rail-crossing-20260624-05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "status": "replaced_after_visual_qa",
+      "width": 1536,
+      "height": 864,
+      "bytes": 1297469,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "site": "drive-insight"
+    }
+  ],
+  "visual_qa_summary": "Final2 contact sheet written after replacing unsafe car-on-track hero.",
+  "final_contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260624-drive-insight-contact-sheet-final2.jpg",
+  "source_validation": {
+    "https://www.nhtsa.gov/campaign/railroad-crossing": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.nhtsa.gov/campaign/railroad-crossing",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/railroad-crossing-safety": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/railroad-crossing-safety",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://oli.org/safety-near-trains": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://oli.org/safety-near-trains",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/crossing-inventory": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/crossing-inventory",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.nhtsa.gov/risky-driving/distracted-driving": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.nhtsa.gov/risky-driving/distracted-driving",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.fmcsa.dot.gov/safety/rail-crossing/highway-rail-grade-crossing-safety": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.fmcsa.dot.gov/safety/rail-crossing/highway-rail-grade-crossing-safety",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/rail-crossing-locator-app": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://railroads.dot.gov/railroad-safety/divisions/crossing-safety-and-trespass-prevention/rail-crossing-locator-app",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    },
+    "https://www.ready.gov/alerts": {
+      "ok": true,
+      "attempts": [
+        {
+          "ua": "Mozilla/5.0 HermesCron/20260624",
+          "status": 200,
+          "effective_url": "https://www.ready.gov/alerts",
+          "content_type": "text/html; charset=UTF-8"
+        }
+      ]
+    }
+  },
+  "preflight": {
+    "returncode": 0,
+    "stdout": "{\n  \"ok\": true,\n  \"site\": \"drive-insight\",\n  \"slug\": \"railroad-crossing-driver-stop-track-safety-plan\",\n  \"title\": \"Railroad Crossing Driver Stop Track Safety Plan\",\n  \"candidate_tokens\": [\n    \"crossing\",\n    \"driver\",\n    \"railroad\",\n    \"stop\",\n    \"track\"\n  ],\n  \"threshold\": 0.42,\n  \"near_duplicates\": []\n}\n",
+    "stderr": ""
+  }
+}
