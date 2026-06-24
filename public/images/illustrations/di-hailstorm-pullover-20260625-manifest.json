@@ -1,0 +1,154 @@
+{
+  "site": "drive-insight",
+  "slug": "hailstorm-driving-pull-over-windshield-safety-plan",
+  "title": "Hailstorm Driving Pull-Over and Windshield Safety Plan",
+  "date": "2026-06-25",
+  "host": "gti13",
+  "endpoint": "redacted-direct-gti13",
+  "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "width": 1536,
+  "height": 864,
+  "assets": [
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-hero.png",
+      "filename": "di-hailstorm-pullover-20260625-hero.png",
+      "prompt": "realistic parked car under covered gas station style shelter during hailstorm, no brand marks, no readable signs, no license plate, safe distance",
+      "seed": 202606250113,
+      "prompt_id": "35f7868b-4d61-4bc0-8e25-0d1309ee0c69",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1860005,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-01.png",
+      "filename": "di-hailstorm-pullover-20260625-01.png",
+      "prompt": "realistic severe weather preparation still life with flashlight, keys, folded blanket, blank dark phone face down, no toy cars, no text, no labels",
+      "seed": 202606250905,
+      "prompt_id": "1c2fd90a-87ee-4089-b39e-ffc544262d13",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 1594016,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true
+    },
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-02.png",
+      "filename": "di-hailstorm-pullover-20260625-02.png",
+      "prompt": "realistic vehicle safely parked in a covered public shelter during hail at a complete stop, no traffic lane, no readable signs, no license plate, no brand marks",
+      "seed": 202606250906,
+      "prompt_id": "7567c3ee-2aff-47d0-8eb7-3fd18009d194",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2085547,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 26,
+      "cfg": 5.0,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true
+    },
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-03.png",
+      "filename": "di-hailstorm-pullover-20260625-03.png",
+      "prompt": "realistic windshield inspection after storm with plain glass reflection, no readable stickers, no dashboard numbers",
+      "seed": 202606250116,
+      "prompt_id": "7d5e603c-d103-4b56-b8ea-94617bb69ef1",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2365643,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    },
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-04.png",
+      "filename": "di-hailstorm-pullover-20260625-04.png",
+      "prompt": "realistic parked car side window view during hail with dashboard screens fully dark and cropped out, no map, no UI, no numbers, no signs, safe stopped vehicle",
+      "seed": 202606251103,
+      "prompt_id": "3ec7611e-8893-450e-8401-01b24e8e254d",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2293378,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 28,
+      "cfg": 4.8,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_final2_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "regenerated_for_visual_qa": true,
+      "regenerated_for_visual_qa_final2": true
+    },
+    {
+      "file": "public/images/illustrations/di-hailstorm-pullover-20260625-05.png",
+      "filename": "di-hailstorm-pullover-20260625-05.png",
+      "prompt": "realistic emergency kit in trunk with blanket and flashlight, no labels, no brand marks, no text",
+      "seed": 202606250118,
+      "prompt_id": "aae0dc9d-23db-4af9-8925-06367e855c7e",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "bytes": 2139986,
+      "checkpoint": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+      "steps": 24,
+      "cfg": 5.1,
+      "sampler": "dpmpp_2m",
+      "scheduler": "karras",
+      "comfy_output": {
+        "filename": "hermes_batch_a_20260625_drive-insight_05_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      }
+    }
+  ],
+  "contact_sheets": {
+    "contact_sheet": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-drive-insight-contact-sheet.jpg",
+    "contact_sheet_final": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-drive-insight-contact-sheet-final.jpg",
+    "contact_sheet_final2": "/home/taekm33/blog-ops/16-sites/reports/batch-a-20260625-drive-insight-contact-sheet-final2.jpg"
+  }
+}
