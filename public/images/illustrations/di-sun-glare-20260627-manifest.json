@@ -1,0 +1,142 @@
+{
+  "site": "drive-insight",
+  "slug": "sun-glare-driving-visor-sunglasses-dawn-dusk-plan",
+  "date": "2026-06-27",
+  "gti15_gate": "passed endpoint http://192.168.50.31:8188, smoke passed",
+  "selected_images": [
+    "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot1r\\20260627_012038_krea_3459364204.png",
+    "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair4\\drive-insight\\slot2r4\\20260627_012843_krea_2279878744.png",
+    "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot3r\\20260627_012106_krea_2767771133.png",
+    "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot4\\20260627_011648_krea_4034314824.png",
+    "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot5\\20260627_011702_krea_725876138.png"
+  ],
+  "manifests": [
+    {
+      "endpoint": "http://192.168.50.31:8188",
+      "prompt": "editorial driving safety still life with polarized sunglasses, microfiber cloth, and car keys on plain passenger seat, no phones, no tablets, no laptops, no screens, no text, no logos, no people",
+      "positive_suffix": " realistic, natural perspective, physically plausible objects, coherent scene, professional editorial stock photo style, clean composition, soft natural light, no artificial AI look, no oversaturated colors, no surreal elements, no fantasy objects, text-free, logo-free, no watermark, no people, no hands, no faces, no readable labels, closed laptop or blank/off screens only, no visible UI, no document-like surfaces",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "results": [
+        {
+          "prompt_id": "56629676-bd1d-418e-bafc-22d27026b265",
+          "remote": {
+            "filename": "gti15_natural_krea_00061_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot1r\\20260627_012038_krea_3459364204.png",
+          "bytes": 1706843,
+          "seconds": 14,
+          "engine": "krea",
+          "seed": 3459364204,
+          "status": "NEEDS_VISUAL_QA",
+          "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible."
+        }
+      ],
+      "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot1r\\contact_sheet.jpg",
+      "publish_policy": "DO_NOT_PUBLISH until explicit visual QA pass. Generate replacements until all selected images look plausible to a normal reader."
+    },
+    {
+      "endpoint": "http://192.168.50.31:8188",
+      "prompt": "editorial sun glare driving prep still life with polarized sunglasses on a plain folded towel on passenger seat, bright low sunlight in background, no visor labels, no stickers, no screens, no text, no people",
+      "positive_suffix": " realistic, natural perspective, physically plausible objects, coherent scene, professional editorial stock photo style, clean composition, soft natural light, no artificial AI look, no oversaturated colors, no surreal elements, no fantasy objects, text-free, logo-free, no watermark, no people, no hands, no faces, no readable labels, closed laptop or blank/off screens only, no visible UI, no document-like surfaces",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "results": [
+        {
+          "prompt_id": "73382a32-0d74-4393-8bc2-b8283636c0a7",
+          "remote": {
+            "filename": "gti15_natural_krea_00082_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair4\\drive-insight\\slot2r4\\20260627_012843_krea_2279878744.png",
+          "bytes": 1516753,
+          "seconds": 14,
+          "engine": "krea",
+          "seed": 2279878744,
+          "status": "NEEDS_VISUAL_QA",
+          "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible."
+        }
+      ],
+      "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair4\\drive-insight\\slot2r4\\contact_sheet.jpg",
+      "publish_policy": "DO_NOT_PUBLISH until explicit visual QA pass. Generate replacements until all selected images look plausible to a normal reader."
+    },
+    {
+      "endpoint": "http://192.168.50.31:8188",
+      "prompt": "editorial dawn road glare seen through clean windshield of parked generic car, open road with no signs, no license plates, no readable text, no people, safe stopped vehicle perspective",
+      "positive_suffix": " realistic, natural perspective, physically plausible objects, coherent scene, professional editorial stock photo style, clean composition, soft natural light, no artificial AI look, no oversaturated colors, no surreal elements, no fantasy objects, text-free, logo-free, no watermark, no people, no hands, no faces, no readable labels, closed laptop or blank/off screens only, no visible UI, no document-like surfaces",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "results": [
+        {
+          "prompt_id": "606a2f46-1eea-47b4-a10c-51e07ac2285a",
+          "remote": {
+            "filename": "gti15_natural_krea_00063_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot3r\\20260627_012106_krea_2767771133.png",
+          "bytes": 1384046,
+          "seconds": 14,
+          "engine": "krea",
+          "seed": 2767771133,
+          "status": "NEEDS_VISUAL_QA",
+          "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible."
+        }
+      ],
+      "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15_repair\\drive-insight\\slot3r\\contact_sheet.jpg",
+      "publish_policy": "DO_NOT_PUBLISH until explicit visual QA pass. Generate replacements until all selected images look plausible to a normal reader."
+    },
+    {
+      "endpoint": "http://192.168.50.31:8188",
+      "prompt": "editorial close view of clean windshield edge, microfiber cloth, and sunglasses in a neutral car interior, glare reduction preparation, no logos, no text, no hands",
+      "positive_suffix": " realistic, natural perspective, physically plausible objects, coherent scene, professional editorial stock photo style, clean composition, soft natural light, no artificial AI look, no oversaturated colors, no surreal elements, no fantasy objects, text-free, logo-free, no watermark, no people, no hands, no faces, no readable labels, closed laptop or blank/off screens only, no visible UI, no document-like surfaces",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "results": [
+        {
+          "prompt_id": "34652df1-d1e2-432c-9c31-eabd3e0d7b92",
+          "remote": {
+            "filename": "gti15_natural_krea_00049_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot4\\20260627_011648_krea_4034314824.png",
+          "bytes": 1675221,
+          "seconds": 13,
+          "engine": "krea",
+          "seed": 4034314824,
+          "status": "NEEDS_VISUAL_QA",
+          "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible."
+        }
+      ],
+      "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot4\\contact_sheet.jpg",
+      "publish_policy": "DO_NOT_PUBLISH until explicit visual QA pass. Generate replacements until all selected images look plausible to a normal reader."
+    },
+    {
+      "endpoint": "http://192.168.50.31:8188",
+      "prompt": "editorial safe driving planning still life with blank route card, sunglasses, and closed phone face down on passenger seat, sun glare commute, no readable text, no UI, no people",
+      "positive_suffix": " realistic, natural perspective, physically plausible objects, coherent scene, professional editorial stock photo style, clean composition, soft natural light, no artificial AI look, no oversaturated colors, no surreal elements, no fantasy objects, text-free, logo-free, no watermark, no people, no hands, no faces, no readable labels, closed laptop or blank/off screens only, no visible UI, no document-like surfaces",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "results": [
+        {
+          "prompt_id": "f172516d-bb08-4e7f-a155-bb1381f1d4ae",
+          "remote": {
+            "filename": "gti15_natural_krea_00050_.png",
+            "subfolder": "",
+            "type": "output"
+          },
+          "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot5\\20260627_011702_krea_725876138.png",
+          "bytes": 1700146,
+          "seconds": 14,
+          "engine": "krea",
+          "seed": 725876138,
+          "status": "NEEDS_VISUAL_QA",
+          "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible."
+        }
+      ],
+      "contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight\\slot5\\contact_sheet.jpg",
+      "publish_policy": "DO_NOT_PUBLISH until explicit visual QA pass. Generate replacements until all selected images look plausible to a normal reader."
+    }
+  ],
+  "final_contact_sheet": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batchA_20260627_gti15\\drive-insight_FINAL4_contact_sheet.jpg",
+  "visual_qa": "manual/vision QA passed for selected assets after regeneration; rejected earlier failed assets were not copied"
+}
