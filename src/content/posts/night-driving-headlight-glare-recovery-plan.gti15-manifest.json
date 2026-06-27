@@ -1,0 +1,30 @@
+{
+  "site": "drive-insight",
+  "slug": "night-driving-headlight-glare-recovery-plan",
+  "date": "2026-06-28",
+  "gti15_endpoint": "redacted direct GTI15 ComfyUI endpoint passed gate and smoke",
+  "dimensions": "1536x864",
+  "accepted_images": [
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/drive-insight/night-driving-still-life/20260628_012546_krea_763214880.png",
+      "public_url": "/images/illustrations/dri-night-driving-headlight-glare-recovery-plan-20260628-1.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/drive-insight/headlight-cleaning-cropped/20260628_012658_krea_3726103750.png",
+      "public_url": "/images/illustrations/dri-night-driving-headlight-glare-recovery-plan-20260628-2.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/drive-insight/headlight-cleaning-cropped/20260628_012751_juggernaut_3726103752.png",
+      "public_url": "/images/illustrations/dri-night-driving-headlight-glare-recovery-plan-20260628-3.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/drive-insight/glare-recovery-safe-shoulder/20260628_012844_realvis_4102932677.png",
+      "public_url": "/images/illustrations/dri-night-driving-headlight-glare-recovery-plan-20260628-4.png"
+    },
+    {
+      "source": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/gti15_batch_a_20260628_repair/drive-insight/glare-recovery-safe-shoulder/20260628_012901_juggernaut_4102932678.png",
+      "public_url": "/images/illustrations/dri-night-driving-headlight-glare-recovery-plan-20260628-5.png"
+    }
+  ],
+  "visual_qa": "passed after rejecting listed failed candidates; accepted images only copied to repo"
+}
