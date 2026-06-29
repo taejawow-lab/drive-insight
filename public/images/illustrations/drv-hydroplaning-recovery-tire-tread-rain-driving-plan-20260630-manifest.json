@@ -1,0 +1,56 @@
+{
+  "site": "drive-insight",
+  "slug": "hydroplaning-recovery-tire-tread-rain-driving-plan",
+  "date": "2026-06-30",
+  "endpoint": "GTI15 ComfyUI endpoint (redacted)",
+  "dimensions": "1536x864",
+  "accepted_count": 5,
+  "assets": [
+    {
+      "engine": "krea",
+      "seed": 3733412151,
+      "prompt_id": "c6839f3e-348b-4058-81b1-aadf178892b1",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\drive-insight\\run1_rain_tire_tread_safety\\20260630_011737_krea_3733412151.png",
+      "bytes": 1684852,
+      "seconds": 36,
+      "published": "public/images/illustrations/drv-hydroplaning-recovery-tire-tread-rain-driving-plan-20260630-1.png"
+    },
+    {
+      "engine": "juggernaut",
+      "seed": 3733412153,
+      "prompt_id": "f63de33a-0797-4cf9-86d0-297d71497260",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\drive-insight\\run1_rain_tire_tread_safety\\20260630_011831_juggernaut_3733412153.png",
+      "bytes": 1818594,
+      "seconds": 17,
+      "published": "public/images/illustrations/drv-hydroplaning-recovery-tire-tread-rain-driving-plan-20260630-2.png"
+    },
+    {
+      "engine": "krea",
+      "seed": 3609309260,
+      "prompt_id": "d223c6e4-741c-4104-b90a-0b8bd54ce58a",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\drive-insight\\run3_wet_road_parked_tire_no_gauge\\20260630_012542_krea_3609309260.png",
+      "bytes": 1712716,
+      "seconds": 35,
+      "published": "public/images/illustrations/drv-hydroplaning-recovery-tire-tread-rain-driving-plan-20260630-3.png"
+    },
+    {
+      "engine": "realvis",
+      "seed": 3609309261,
+      "prompt_id": "3ff1615d-96c4-42c1-9355-5e61dba73a92",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\drive-insight\\run3_wet_road_parked_tire_no_gauge\\20260630_012618_realvis_3609309261.png",
+      "bytes": 1885197,
+      "seconds": 17,
+      "published": "public/images/illustrations/drv-hydroplaning-recovery-tire-tread-rain-driving-plan-20260630-4.png"
+    },
+    {
+      "engine": "juggernaut",
+      "seed": 3609309262,
+      "prompt_id": "688d6e18-a506-402e-88b5-63a3c46cfa96",
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260630_images\\drive-insight\\run3_wet_road_parked_tire_no_gauge\\20260630_012635_juggernaut_3609309262.png",
+      "bytes": 1888155,
+      "seconds": 17,
+      "published": "public/images/illustrations/drv-hydroplaning-recovery-tire-tread-rain-driving-plan-20260630-5.png"
+    }
+  ],
+  "visual_qa": "manual contact-sheet QA passed for selected assets; rejected assets excluded"
+}
