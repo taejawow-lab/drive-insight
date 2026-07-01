@@ -1,0 +1,291 @@
+{
+  "site": "drive-insight.net",
+  "date": "2026-07-01",
+  "reason": "AdSense low-value-content rejection remediation",
+  "threshold": "Published posts must have actual body >=1500 English-word tokens, >=8 sources in frontmatter, >=5 visuals; thin posts are temporarily removed from generated archive until rewritten.",
+  "draftedCount": 42,
+  "keptPublishedCount": 16,
+  "drafted": [
+    {
+      "file": "src/content/posts/best-dash-cams-data.mdx",
+      "actualWords": 1444,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/blind-spot-mirror-data.mdx",
+      "actualWords": 1417,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/car-organizer-trunk-storage.mdx",
+      "actualWords": 1448,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/car-vacuum-cordless-tested.mdx",
+      "actualWords": 1325,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/construction-zone-night-driving-lane-merge-safety-plan.mdx",
+      "actualWords": 917,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/dash-cam-buying-guide-2026.mdx",
+      "actualWords": 1268,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/dashboard-warning-light-safe-pull-over-plan.mdx",
+      "actualWords": 1471,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/emergency-car-kit-heat-storm-2026.mdx",
+      "actualWords": 687,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/emergency-roadside-kit.mdx",
+      "actualWords": 1454,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/ev-charging-network-2026.mdx",
+      "actualWords": 1442,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/ev-road-trip-charging-heat-checklist.mdx",
+      "actualWords": 492,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/ev-summer-road-trip-charging-heat-checklist.mdx",
+      "actualWords": 965,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/flash-flood-road-trip-turn-around-safety-checklist.mdx",
+      "actualWords": 646,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/front-rear-dash-cam-setup.mdx",
+      "actualWords": 1252,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/hailstorm-driving-pull-over-windshield-safety-plan.mdx",
+      "actualWords": 663,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/hurricane-evacuation-car-readiness-checklist.mdx",
+      "actualWords": 808,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/hydroplaning-first-rain-road-trip-safety-plan.mdx",
+      "actualWords": 963,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/mountain-downhill-brake-overheating-safety-plan.mdx",
+      "actualWords": 760,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/night-driving-headlight-glare-recovery-plan.mdx",
+      "actualWords": 514,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/obd2-scanner-guide.mdx",
+      "actualWords": 1479,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/parked-car-heat-child-pet-passenger-safety-plan.mdx",
+      "actualWords": 1472,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/parking-mode-dash-cam.mdx",
+      "actualWords": 1413,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/portable-gps-vs-phone.mdx",
+      "actualWords": 1344,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/railroad-crossing-driver-stop-track-safety-plan.mdx",
+      "actualWords": 912,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/railroad-crossing-road-trip-safety-checklist.mdx",
+      "actualWords": 853,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/rural-two-lane-passing-zone-safety-decision-plan.mdx",
+      "actualWords": 952,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/school-zone-summer-camp-pickup-driving-safety-plan.mdx",
+      "actualWords": 799,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/seat-cushion-comfort-data.mdx",
+      "actualWords": 1422,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/severe-thunderstorm-driving-shelter-hail-wind-plan.mdx",
+      "actualWords": 626,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-car-seat-road-trip-heat-installation-checklist.mdx",
+      "actualWords": 571,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-night-driving-glare-visibility-fatigue-plan.mdx",
+      "actualWords": 621,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-road-trip-tire-heat-checklist.mdx",
+      "actualWords": 494,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-road-trip-tire-pressure-load-checklist.mdx",
+      "actualWords": 672,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-road-trip-wildfire-smoke-visibility-driving-plan.mdx",
+      "actualWords": 1251,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-roadside-emergency-kit-heat-tire-plan.mdx",
+      "actualWords": 693,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/summer-tire-pressure-tpms-road-trip-check.mdx",
+      "actualWords": 613,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/sun-glare-driving-visor-sunglasses-dawn-dusk-plan.mdx",
+      "actualWords": 924,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/tire-blowout-highway-control-summer-safety-plan.mdx",
+      "actualWords": 1496,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/tire-pressure-monitor-tested.mdx",
+      "actualWords": 1294,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/used-toyota-camry-2018-2022.mdx",
+      "actualWords": 1335,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/wet-leaves-braking-distance-fall-driving-plan.mdx",
+      "actualWords": 869,
+      "action": "drafted_temporarily_low_value_remediation"
+    },
+    {
+      "file": "src/content/posts/windshield-wiper-replacement-guide.mdx",
+      "actualWords": 1349,
+      "action": "drafted_temporarily_low_value_remediation"
+    }
+  ],
+  "keptPublished": [
+    {
+      "file": "src/content/posts/12v-car-battery-failure-test-plan-2026.mdx",
+      "actualWords": 1518
+    },
+    {
+      "file": "src/content/posts/best-used-suvs-under-25k.mdx",
+      "actualWords": 1850
+    },
+    {
+      "file": "src/content/posts/brake-fluid-moisture-maintenance-check-2026.mdx",
+      "actualWords": 1557
+    },
+    {
+      "file": "src/content/posts/car-battery-jumpstart-tools.mdx",
+      "actualWords": 1505
+    },
+    {
+      "file": "src/content/posts/car-phone-mount-tested.mdx",
+      "actualWords": 1522
+    },
+    {
+      "file": "src/content/posts/check-engine-light-diagnostic-workflow-2026.mdx",
+      "actualWords": 1999
+    },
+    {
+      "file": "src/content/posts/hailstorm-driving-windshield-damage-decision-plan.mdx",
+      "actualWords": 1662
+    },
+    {
+      "file": "src/content/posts/hydroplaning-recovery-tire-tread-rain-driving-plan.mdx",
+      "actualWords": 1534
+    },
+    {
+      "file": "src/content/posts/obd-ii-readiness-monitors-emissions-test-checklist-2026.mdx",
+      "actualWords": 2710
+    },
+    {
+      "file": "src/content/posts/parking-lot-child-pedestrian-backover-prevention-plan.mdx",
+      "actualWords": 1500
+    },
+    {
+      "file": "src/content/posts/tire-inflator-portable-tested.mdx",
+      "actualWords": 1885
+    },
+    {
+      "file": "src/content/posts/tire-tread-depth-wet-braking-checklist-2026.mdx",
+      "actualWords": 1533
+    },
+    {
+      "file": "src/content/posts/tornado-warning-driving-shelter-decision-plan.mdx",
+      "actualWords": 1525
+    },
+    {
+      "file": "src/content/posts/used-car-pre-purchase-inspection.mdx",
+      "actualWords": 2227
+    },
+    {
+      "file": "src/content/posts/used-honda-civic-2018-2022.mdx",
+      "actualWords": 1863
+    },
+    {
+      "file": "src/content/posts/used-hybrid-vs-gas-tco.mdx",
+      "actualWords": 1698
+    }
+  ],
+  "nextContentActions": [
+    "Rewrite drafted posts one-by-one with original decision tables, stop/discard rules, source-linked evidence sections, and practical workflows before republishing.",
+    "Run image contact-sheet QA before any republish.",
+    "Resubmit AdSense only after production smoke confirms thin URLs are absent from sitemap and key trust surfaces are live."
+  ]
+}
