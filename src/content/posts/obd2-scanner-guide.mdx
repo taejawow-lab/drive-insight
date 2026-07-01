@@ -2,7 +2,7 @@
 title: "OBD2 Scanner Guide — Reading Codes and Choosing the Right Tool"
 description: "OBD2 scanners explained: code readers vs full scanners, Bluetooth dongles, professional tools, and when DIY diagnostics save money."
 pubDate: 2026-05-12
-updatedDate: 2026-05-12
+updatedDate: 2026-07-01
 category: "Car Safety"
 tags: ["OBD2", "diagnostic", "scanner", "check-engine", "DIY", "automotive"]
 heroImage: "/images/illustrations/di-c2-obd2-hero.png"
@@ -50,7 +50,7 @@ internalLinks:
   - "/category/car-safety"
 visualsCount: 5
 hasVideo: false
-wordCount: 1900
+wordCount: 1871
 affiliate: true
 faq:
   - question: "What does OBD2 actually do?"
@@ -63,7 +63,7 @@ faq:
     answer: "For diagnostics yes, for repairs no. Scanner tells you what code is set; you still need mechanical work for many fixes. Specific scenarios where scanner alone helps: clearing check engine light after replacing gas cap (common P0440 code), monitoring for return of intermittent issues, verifying parts replacement fixed the code. For complex codes (transmission, ABS, emissions), professional diagnosis often needed. Scanner is starting point, not complete diagnostic solution."
   - question: "How much does professional scan cost?"
     answer: "Per AAA shop surveys, professional OBD2 scan costs $0-80. Many auto parts stores (AutoZone, Advance Auto, O'Reilly) offer free code reading. Mechanic shops typically charge $50-150 for diagnostic fee that includes scan plus inspection. For under $100 cost of your own scanner plus 30 minutes learning, you can read codes yourself indefinitely. Worth it if you have older vehicle or are diagnostically curious."
-draft: true
+draft: false
 ---
 
 import ProductBox from '../../components/ProductBox.astro';
@@ -241,3 +241,23 @@ For advanced enthusiasts: OBDLink MX+ paired with manufacturer-specific apps (FO
 Scanner pays for itself within one or two avoided shop diagnostic fees. Combined with internet research, basic DIY repairs become accessible to most vehicle owners.
 
 For complementary reading, see [tire pressure monitor tested](/posts/tire-pressure-monitor-tested), [emergency roadside kit](/posts/emergency-roadside-kit), and the [car safety category](/category/car-safety).
+
+## Decision workflow before buying or clearing codes
+
+A useful OBD2 scanner decision starts before the purchase. Write down the problem the tool must solve: a one-time check-engine-light read, emissions readiness before inspection, live data for intermittent drivability symptoms, or a long-term maintenance log for an older vehicle. A basic code reader can show stored and pending powertrain codes, but it may not show manufacturer-specific body, ABS, airbag, transmission, or hybrid-system modules. That distinction matters because a cheap reader can look successful while hiding the module that actually explains the warning light.
+
+Use a three-step boundary. First, read the code and freeze-frame context without clearing anything. Second, compare the code with symptoms, service history, battery voltage, fuel level, and recent repairs. Third, decide whether the next action is a safe owner check, a repeat scan after a drive cycle, or a qualified diagnostic appointment. Clearing codes too early can erase evidence, reset readiness monitors, and make an emissions test fail even when the original problem was small.
+
+| Situation | Scanner level that usually fits | Stop point |
+|---|---|---|
+| Occasional check-engine light | Basic reader with pending codes and freeze frame | Flashing MIL, misfire, overheating, fuel smell |
+| Emissions readiness check | Reader that displays monitor status clearly | Monitors will not complete after normal driving |
+| Used-car inspection | Tool that can show pending codes and battery voltage | Seller refuses a scan or codes were recently cleared |
+| DIY troubleshooting | Live data, graphing, and manufacturer definitions | Safety systems, high voltage, airbags, ABS, or repeated faults |
+
+## Evidence to keep for a mechanic or inspection station
+
+Take photos or notes before changing anything: code number, description, freeze-frame speed and temperature, whether the light is steady or flashing, odometer reading, fuel level, and whether the battery was recently disconnected. If the car is going to a shop, this record saves time because it shows the state before codes were cleared or monitors reset. If the car is being considered for purchase, the record helps separate a normal old stored code from a suspicious pattern of pending faults, incomplete monitors, and vague seller explanations.
+
+A scanner is a measurement tool, not a verdict. The value comes from preserving context and choosing the next safe step. If the tool pushes you to replace parts without confirming the system, the workflow has failed. Treat the scanner as the start of a diagnostic conversation, not the end of one.
+

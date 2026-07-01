@@ -1,0 +1,36 @@
+{
+  "site": "drive-insight.net",
+  "date": "2026-07-01",
+  "action": "republish_quality_expansion_batch",
+  "reason": "Increase AdSense re-review content depth from 16 to 22 high-quality published posts without restoring thin content in bulk.",
+  "republishedCount": 6,
+  "publishedTargetAfterBatch": 22,
+  "files": [
+    {
+      "file": "src/content/posts/obd2-scanner-guide.mdx",
+      "actualWords": 1871
+    },
+    {
+      "file": "src/content/posts/emergency-roadside-kit.mdx",
+      "actualWords": 1815
+    },
+    {
+      "file": "src/content/posts/best-dash-cams-data.mdx",
+      "actualWords": 1819
+    },
+    {
+      "file": "src/content/posts/parking-mode-dash-cam.mdx",
+      "actualWords": 1788
+    },
+    {
+      "file": "src/content/posts/blind-spot-mirror-data.mdx",
+      "actualWords": 1801
+    },
+    {
+      "file": "src/content/posts/windshield-wiper-replacement-guide.mdx",
+      "actualWords": 1698
+    }
+  ],
+  "qualityFloor": "All published posts after this batch must have actual body >=1500 words, >=8 frontmatter sources, >=5 visuals, draft false, and successful build/smoke before AdSense re-review.",
+  "notes": "16-site generic publishing batches remain paused during the review window; the Drive-Insight watchdog expected published count was updated to 22."
+}
