@@ -21,6 +21,14 @@ export interface Props {
 
 const { title, description, pubDate, updatedDate, heroImage, tags = [], category, sources = [], affiliate = false, visualsCount = 0, hasVideo = false, headings = [] } = Astro.props;
 
+const routeSlug = (value: string) => value
+  .toLowerCase()
+  .trim()
+  .replace(/[\/\\&%?#=]/g, '-')
+  .replace(/\s+/g, '-')
+  .replace(/-+/g, '-')
+  .replace(/^-|-$/g, '');
+
 const schema = {
   '@context': 'https://schema.org',
   '@type': 'Article',
@@ -39,7 +47,7 @@ const schema = {
     <header class="grid gap-8 border-b border-border pb-10 lg:grid-cols-[1fr_340px]">
       <div>
         <div class="mb-5 flex flex-wrap gap-2">
-          {category && <a href={`/category/${category.toLowerCase()}`} class="technical-chip">{category}</a>}
+          {category && <a href={`/category/${routeSlug(category)}/`} class="technical-chip">{category}</a>}
           <span class="verified-badge">ASE Certified review model</span>
           <span class="safety-badge">Safety-critical claims checked</span>
         </div>
@@ -86,7 +94,7 @@ const schema = {
     {tags.length > 0 && (
       <footer class="mt-8 border-t border-border pt-8">
         <div class="flex flex-wrap gap-2">
-          {tags.map((tag) => <a href={`/tags/${tag}`} class="technical-chip">#{tag}</a>)}
+          {tags.map((tag) => <a href={`/tags/${routeSlug(tag)}/`} class="technical-chip">#{tag}</a>)}
         </div>
       </footer>
     )}
