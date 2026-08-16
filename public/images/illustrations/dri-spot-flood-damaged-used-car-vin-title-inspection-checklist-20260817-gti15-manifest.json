@@ -1,0 +1,132 @@
+{
+  "schema_version": 1,
+  "site": "drive-insight",
+  "slug": "spot-flood-damaged-used-car-vin-title-inspection-checklist",
+  "generated_at": "2026-08-17",
+  "backend": "GTI15 ComfyUI",
+  "visual_qa": "PASS",
+  "accepted_count": 6,
+  "assets": [
+    {
+      "prompt_id": "d224f47a-8fbd-4695-b46b-b5c0fd9a6716",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00276_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive\\interior-check\\20260817_015155_juggernaut_2980008958.png",
+      "bytes": 1785201,
+      "seconds": 19,
+      "engine": "juggernaut",
+      "seed": 2980008958,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive/interior-check/manifest.json",
+      "prompt": "flood damaged used car inspection article, clean used car interior viewed through an open door showing carpet edges, seat rails and lower trim ready for inspection, no water present, professional editorial stock photo, no people, no hands, no faces, no text, no numbers, no logos, no screens, no documents, no readable VIN, no license plate, physically plausible vehicle interior",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-1.png",
+      "sha256": "62e949d1335f772ccca8a87fb9a7cd6a5bffd02529ab66afdefb1fc695bd3169"
+    },
+    {
+      "prompt_id": "1096bd06-40e8-4244-beab-703c24b8a4d8",
+      "remote": {
+        "filename": "gti15_natural_krea_00364_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive-replacements\\spare-well\\20260817_015755_krea_3644949563.png",
+      "bytes": 1776575,
+      "seconds": 32,
+      "engine": "krea",
+      "seed": 3644949563,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive-replacements/spare-well/manifest.json",
+      "prompt": "used car flood inspection, open trunk closeup showing clean spare wheel well edges, dry carpet seams, metal fasteners and cargo floor lifted aside, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no labels, no logos, no screens, no documents, no license plate, no standing water, no unsafe wiring, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-2.png",
+      "sha256": "bcb04c2bea8f1683be47231f31b1e6a011b1b1d2fc49109dd52c7ce9245e01e6"
+    },
+    {
+      "prompt_id": "4e840e4f-0bae-405a-b8c9-31791be7d44d",
+      "remote": {
+        "filename": "gti15_natural_realvis_00281_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive-replacements\\spare-well\\20260817_015827_realvis_3644949564.png",
+      "bytes": 1871135,
+      "seconds": 15,
+      "engine": "realvis",
+      "seed": 3644949564,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive-replacements/spare-well/manifest.json",
+      "prompt": "used car flood inspection, open trunk closeup showing clean spare wheel well edges, dry carpet seams, metal fasteners and cargo floor lifted aside, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no labels, no logos, no screens, no documents, no license plate, no standing water, no unsafe wiring, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-3.png",
+      "sha256": "92da4f09636c04eb834d6b2be2de863f365fb87447c71b95da5d0ac04ab4b76d"
+    },
+    {
+      "prompt_id": "f104aab4-9cfb-4d43-bd5c-cf6c749461e5",
+      "remote": {
+        "filename": "gti15_natural_krea_00366_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive-replacements\\underbody\\20260817_015931_krea_3048593096.png",
+      "bytes": 1651956,
+      "seconds": 46,
+      "engine": "krea",
+      "seed": 3048593096,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive-replacements/underbody/manifest.json",
+      "prompt": "used car flood inspection, neutral sedan safely raised on a professional shop lift viewed from the side with underbody, brake lines and suspension visible, front and rear cropped to exclude all badges and plates, dry clean floor, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no logos, no screens, no documents, no water, physically plausible safe setup",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-4.png",
+      "sha256": "7ca8a43a89cea8d29150214d31c2f76fc96b9a4c241bb4e9dd7a205f9d05d92a"
+    },
+    {
+      "prompt_id": "42b1a42f-df42-412f-a8ca-c2a81ddca9ea",
+      "remote": {
+        "filename": "gti15_natural_krea_00367_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive-final\\door-seams\\20260817_020141_krea_1398799958.png",
+      "bytes": 1626175,
+      "seconds": 32,
+      "engine": "krea",
+      "seed": 1398799958,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive-final/door-seams/manifest.json",
+      "prompt": "used car flood damage inspection article, close side view of two closed unbranded sedan doors, rocker panel, wheel arch edge and dry door seams in a clean inspection bay, crop excludes front grille, rear trunk, all license plates and dashboard, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no logos, no screens, no documents, no water, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-5.png",
+      "sha256": "95d2b47465137209f89555b53ba03215dc03ef98e564388ab0ca76d6b0d43f6a"
+    },
+    {
+      "prompt_id": "4da5aa63-afb7-415d-b599-618fd307c08a",
+      "remote": {
+        "filename": "gti15_natural_realvis_00284_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260817-drive-final\\door-seams\\20260817_020213_realvis_1398799959.png",
+      "bytes": 1580624,
+      "seconds": 15,
+      "engine": "realvis",
+      "seed": 1398799959,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260817-drive-final/door-seams/manifest.json",
+      "prompt": "used car flood damage inspection article, close side view of two closed unbranded sedan doors, rocker panel, wheel arch edge and dry door seams in a clean inspection bay, crop excludes front grille, rear trunk, all license plates and dashboard, realistic editorial stock photo, no people, no hands, no faces, no text, no numbers, no logos, no screens, no documents, no water, physically plausible",
+      "negative": "people, person, face, hands, fingers, body, readable text, letters, numbers, logo, watermark, signature, fake user interface, app dock, icons, browser window, code screen, open laptop screen, monitor screen, document, forms, receipts, certificates, currency, medicine labels, policy paper, passport, distorted objects, warped laptop, impossible geometry, extra objects, clutter, blurry, low resolution, oversaturated, cartoon, anime, 3d render, illustration artifacts",
+      "published_file": "dri-spot-flood-damaged-used-car-vin-title-inspection-checklist-20260817-6.png",
+      "sha256": "7c88683bfec3c60e04b71daa497cbdfeb64afcc76217de4fb2bb69fe58319fcb"
+    }
+  ],
+  "rejected_candidates_not_published": true
+}
