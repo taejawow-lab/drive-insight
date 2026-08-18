@@ -1,0 +1,108 @@
+{
+  "schema_version": 1,
+  "site": "drive-insight",
+  "slug": "trailer-towing-load-sway-safety-checklist",
+  "generated_at": "2026-08-19",
+  "backend": "GTI15 ComfyUI",
+  "visual_qa": "PASS",
+  "accepted_count": 5,
+  "assets": [
+    {
+      "prompt_id": "644a3034-04a9-4172-9b7f-21933d5455d6",
+      "remote": {
+        "filename": "gti15_natural_krea_00459_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\drive-insight-2\\20260819_021827_krea_3843865283.png",
+      "bytes": 2013993,
+      "seconds": 32,
+      "engine": "krea",
+      "seed": 3843865283,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/drive-insight-2/manifest.json",
+      "published_file": "dri-trailer-towing-load-sway-safety-checklist-20260819-1.png",
+      "sha256": "2cb6fab72100728ce1284d20d51ede82f61084c78ff315d7f87af6187c1a518f",
+      "published_bytes": 2013993
+    },
+    {
+      "prompt_id": "83d51cf5-a891-4c1c-bab8-d0a4166c1fdb",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00289_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\drive-insight-2\\20260819_021952_juggernaut_3843865285.png",
+      "bytes": 2347027,
+      "seconds": 29,
+      "engine": "juggernaut",
+      "seed": 3843865285,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/drive-insight-2/manifest.json",
+      "published_file": "dri-trailer-towing-load-sway-safety-checklist-20260819-2.png",
+      "sha256": "5f7b0ed329bd3c9bfaf8872e988fb0a4a5dbde5091af7b868291f7d455b7d0d1",
+      "published_bytes": 2347027
+    },
+    {
+      "prompt_id": "93126c44-da82-4c24-bcdc-d6c573d9b82a",
+      "remote": {
+        "filename": "gti15_natural_realvis_00299_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\drive-insight-5\\20260819_022825_realvis_1308004805.png",
+      "bytes": 2139549,
+      "seconds": 20,
+      "engine": "realvis",
+      "seed": 1308004805,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/drive-insight-5/manifest.json",
+      "published_file": "dri-trailer-towing-load-sway-safety-checklist-20260819-3.png",
+      "sha256": "1efbfc9b1d0fe37d5257fdf2b3f036f6009ce7325ce7e5a823d539b46e43ea52",
+      "published_bytes": 2139549
+    },
+    {
+      "prompt_id": "cc1f053f-daba-43c3-9721-1f5a9093ac9d",
+      "remote": {
+        "filename": "gti15_natural_juggernaut_00298_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\drive-insight-5\\20260819_022845_juggernaut_1308004806.png",
+      "bytes": 2147186,
+      "seconds": 19,
+      "engine": "juggernaut",
+      "seed": 1308004806,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/drive-insight-5/manifest.json",
+      "published_file": "dri-trailer-towing-load-sway-safety-checklist-20260819-4.png",
+      "sha256": "46028eacd601634c10dd8cd05af61f76852ca27088f9f0966186c2271304e913",
+      "published_bytes": 2147186
+    },
+    {
+      "prompt_id": "65554798-5129-4354-8b00-46e37f4624ae",
+      "remote": {
+        "filename": "gti15_natural_krea_00467_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "local": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch-a-20260819\\drive-insight-6\\20260819_022740_krea_2616815832.png",
+      "bytes": 1701806,
+      "seconds": 32,
+      "engine": "krea",
+      "seed": 2616815832,
+      "status": "ACCEPTED_VISUAL_QA",
+      "qa_required": "Reject if any fake text/UI/logos/hands/faces/distorted or nonsensical objects are visible.",
+      "source_manifest": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260819/drive-insight-6/manifest.json",
+      "editorial_transform": "cropped to remove a QA-rejected branded glove label while preserving generated towing-prep subjects",
+      "published_file": "dri-trailer-towing-load-sway-safety-checklist-20260819-5.png",
+      "sha256": "fc6a7e22b755ef2ef7609cfbc55a8df10e48e33237a9b994cc4e79d6bf87b89f",
+      "published_bytes": 1106673
+    }
+  ],
+  "rejected_candidates_not_published": true
+}

@@ -21,7 +21,8 @@ export const REVIEW_POSTS = [
   "used-honda-civic-2018-2022",
   "windshield-wiper-replacement-guide"
 ,
-  "spot-flood-damaged-used-car-vin-title-inspection-checklist"
+  "spot-flood-damaged-used-car-vin-title-inspection-checklist",
+  "trailer-towing-load-sway-safety-checklist"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;
