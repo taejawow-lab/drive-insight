@@ -1,0 +1,131 @@
+{
+  "batch": "A-20260821",
+  "site": "drive-insight",
+  "slug": "monthly-car-ownership-cost-calculator-2026",
+  "generated_backend": "GTI15 ComfyUI",
+  "accepted_count": 5,
+  "visual_qa": "PASS final4: five accepted rasters; rejected money, forms, gauges, logos, plates, and people were regenerated.",
+  "assets": [
+    {
+      "prompt_id": "aa7cc2e6-4653-4455-ab0d-ee6d49fbc872",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen_drive-insight_hero_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1422605,
+      "seconds": 12,
+      "suffix": "hero",
+      "filename": "drive-insight-20260821-hero.png",
+      "prompt": "side profile of a generic unbranded compact car parked in a clean driveway, front and rear cropped so no license plate or badge is visible, plain keys beside a closed blank folder on a table, no money, no notebook, no people, no text",
+      "seed": 202608211009,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": true,
+      "published_file": "public/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-hero.png",
+      "published_url": "/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-hero.png"
+    },
+    {
+      "prompt_id": "9c4963b1-5f1f-46bf-a918-ff717f2772b1",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_drive-insight_01_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1235738,
+      "seconds": 12,
+      "suffix": "01",
+      "filename": "drive-insight-20260821-01.png",
+      "prompt": "unbranded car parked between a home charging cable station and a distant plain fuel pump silhouette, all displays blank and turned away, no logos, no people, no license plates",
+      "seed": 202608210112,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "published_file": "public/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-01.png",
+      "published_url": "/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-01.png"
+    },
+    {
+      "prompt_id": "b8ebfa30-868f-491f-a359-0cfc8d0e2bd1",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen_drive-insight_02_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1605814,
+      "seconds": 12,
+      "suffix": "02",
+      "filename": "drive-insight-20260821-02.png",
+      "prompt": "close editorial photo of clean tire tread and sidewall cropped to exclude wheel hub, beside a closed plain tool case and folded cloth, no gauges, no numbers, no logos, no people, no text",
+      "seed": 202608211010,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": true,
+      "published_file": "public/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-02.png",
+      "published_url": "/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-02.png"
+    },
+    {
+      "prompt_id": "8f130606-ab36-45ee-8ef1-3fbc6061d469",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen_drive-insight_03_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1491663,
+      "seconds": 12,
+      "suffix": "03",
+      "filename": "drive-insight-20260821-03.png",
+      "prompt": "generic unbranded compact car viewed strictly from the side inside a clean private garage with plain walls and floor, front and rear cropped, no signs, no painted numbers, no license plate, no logos, no people",
+      "seed": 202608211011,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": true,
+      "published_file": "public/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-03.png",
+      "published_url": "/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-03.png"
+    },
+    {
+      "prompt_id": "06c3247f-e6fd-4a4a-92f7-c96362572144",
+      "remote": {
+        "filename": "hermes_batch_a_20260821_regen4_drive-insight_04_00001_.png",
+        "subfolder": "",
+        "type": "output"
+      },
+      "bytes": 1582069,
+      "seconds": 12,
+      "suffix": "04",
+      "filename": "drive-insight-20260821-04.png",
+      "prompt": "generic compact car completely covered by a smooth plain gray fitted protective cover inside a clean private garage, vehicle shape only, no exposed badge or license plate, no tools, no papers, no people, no signs, no text",
+      "seed": 202608214002,
+      "engine": "krea",
+      "model": "flux1-krea-dev_fp8_scaled.safetensors",
+      "dimensions": [
+        1536,
+        864
+      ],
+      "status": "ACCEPTED_VISUAL_QA",
+      "regeneration": "fourth",
+      "published_file": "public/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-04.png",
+      "published_url": "/images/illustrations/dri-monthly-car-ownership-cost-calculator-20260821-04.png"
+    }
+  ],
+  "rejected_assets_published": 0,
+  "final_contact_sheet": "/mnt/c/Users/k8plus/AppData/Local/hermes/tmp/batch-a-20260821-gti15/drive-insight/contact_sheet-final4.jpg"
+}

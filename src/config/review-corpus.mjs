@@ -22,7 +22,8 @@ export const REVIEW_POSTS = [
   "windshield-wiper-replacement-guide"
 ,
   "spot-flood-damaged-used-car-vin-title-inspection-checklist",
-  "trailer-towing-load-sway-safety-checklist"
+  "trailer-towing-load-sway-safety-checklist",
+  "monthly-car-ownership-cost-calculator-2026"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;
