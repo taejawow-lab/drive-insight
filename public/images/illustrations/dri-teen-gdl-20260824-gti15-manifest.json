@@ -1,0 +1,18 @@
+{
+  "site": "drive-insight",
+  "slug": "back-to-school-teen-driver-gdl-parent-checklist",
+  "generated_at": "2026-08-24T00:00:00+09:00",
+  "backend": "GTI15 ComfyUI",
+  "workflow": "generate_image",
+  "model": "Juggernaut-XL_v9_RunDiffusionPhoto_v2.safetensors",
+  "dimensions": "1536x864",
+  "accepted": [
+    {"file":"dri-teen-gdl-1.png","asset_id":"372eb547-2291-4488-9232-508c340af701","prompt_id":"685bde48-3a88-4434-a0ab-8e9e1577a354","seed":8242402,"qa":"accepted"},
+    {"file":"dri-teen-gdl-2.png","asset_id":"36bf9f18-ce5d-4205-9b89-dcdbf2286ae4","prompt_id":"1a8272bc-e8a9-4b2a-abc0-15b0fbadfcf6","seed":8242413,"qa":"accepted"},
+    {"file":"dri-teen-gdl-3.png","asset_id":"dc68c1ca-76a9-4d71-b666-5f9addf77a68","prompt_id":"c4cc3948-d90c-4b0b-9bde-fc1a304a6c92","seed":8242414,"qa":"accepted"},
+    {"file":"dri-teen-gdl-4.png","asset_id":"11a9c763-ee5b-4b5e-a2d8-d9a1c2d6a56f","prompt_id":"31631426-0d92-430b-932c-eefd3eeeca35","seed":8242422,"qa":"accepted"},
+    {"file":"dri-teen-gdl-5.png","asset_id":"81f6c723-1831-4a74-8f28-bc4bdb86df4d","prompt_id":"04e493fe-0077-4fa0-b3fc-a779caec810d","seed":8242424,"qa":"accepted"}
+  ],
+  "rejected_count": 11,
+  "contact_sheet": "C:/Users/k8plus/AppData/Local/hermes/tmp/drive-teen-final/drive-teen-final-contact-sheet.jpg"
+}
