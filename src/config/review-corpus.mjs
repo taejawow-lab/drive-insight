@@ -24,7 +24,8 @@ export const REVIEW_POSTS = [
   "spot-flood-damaged-used-car-vin-title-inspection-checklist",
   "trailer-towing-load-sway-safety-checklist",
   "monthly-car-ownership-cost-calculator-2026",
-  "back-to-school-teen-driver-gdl-parent-checklist"
+  "back-to-school-teen-driver-gdl-parent-checklist",
+  "deer-collision-avoidance-dawn-dusk-braking-plan"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;
