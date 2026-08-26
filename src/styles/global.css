@@ -103,6 +103,7 @@
   .prose-article blockquote { @apply border-l-4 border-accent pl-6 italic text-muted-foreground bg-muted/30 py-2; }
   .prose-article code:not(pre code) { @apply bg-muted px-1.5 py-0.5 rounded text-sm font-mono text-primary; }
   .prose-article pre { @apply bg-muted rounded-lg p-4 overflow-x-auto border border-border; }
+  .prose-article table { display: block; width: 100%; max-width: 100%; overflow-x: auto; }
 
   .comparison-table { @apply w-full my-8 border-collapse overflow-hidden border border-border rounded; }
   .comparison-table th { @apply bg-muted text-foreground px-4 py-3 text-left font-bold; }
