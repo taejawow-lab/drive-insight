@@ -1,0 +1,60 @@
+{
+  "site": "drive-insight",
+  "date": "2026-08-30",
+  "backend": "GTI15 ComfyUI",
+  "model_priority": "FLUX.1 Krea dev",
+  "accepted": [
+    {
+      "file": "dri-black-ice-first-freeze-20260830-1.png",
+      "engine": "krea",
+      "seed": 4068157858,
+      "prompt_id": "39c14043-9493-4051-9d77-67a8a4ddbf1f",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830\\drive-insight\\1-hero\\20260830_033737_krea_4068157858.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "dri-black-ice-first-freeze-20260830-2.png",
+      "engine": "krea",
+      "seed": 282253530,
+      "prompt_id": "52aff945-1b8f-488d-b85f-806e2817e15b",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830\\drive-insight\\2-ramp\\20260830_033750_krea_282253530.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "dri-black-ice-first-freeze-20260830-3.png",
+      "engine": "krea",
+      "seed": 4123910756,
+      "prompt_id": "910a25a3-d7dc-4b21-8427-ba481e89acee",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830\\drive-insight\\3-overpass\\20260830_033804_krea_4123910756.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "dri-black-ice-first-freeze-20260830-4.png",
+      "engine": "krea",
+      "seed": 1823184134,
+      "prompt_id": "a2710ca6-df66-4ed2-b28c-5b66bc91dc6d",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830\\drive-insight\\4-traction\\20260830_033817_krea_1823184134.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    },
+    {
+      "file": "dri-black-ice-first-freeze-20260830-5.png",
+      "engine": "krea",
+      "seed": 513167848,
+      "prompt_id": "a7d1ff90-a5ac-4349-a24e-c224b2144a05",
+      "source": "C:\\Users\\k8plus\\AppData\\Local\\hermes\\tmp\\batch_a_20260830_regen\\drive-insight\\safe-stop\\20260830_034422_krea_513167848.png",
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS"
+    }
+  ],
+  "rejected_candidates_excluded": true,
+  "final_visual_qa": "PASS"
+}
