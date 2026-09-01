@@ -26,7 +26,8 @@ export const REVIEW_POSTS = [
   "monthly-car-ownership-cost-calculator-2026",
   "back-to-school-teen-driver-gdl-parent-checklist",
   "deer-collision-avoidance-dawn-dusk-braking-plan",
-  "black-ice-first-freeze-bridge-ramp-driving-plan"
+  "black-ice-first-freeze-bridge-ramp-driving-plan",
+  "dense-fog-driving-visibility-headlights-pull-over-plan"
 ];
 export const REVIEW_POST_SET = new Set(REVIEW_POSTS);
 export const REVIEW_MIN_EQUIVALENT_WORDS = 850;

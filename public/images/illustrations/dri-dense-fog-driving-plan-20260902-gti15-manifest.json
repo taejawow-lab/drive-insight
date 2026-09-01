@@ -1,0 +1,74 @@
+{
+  "site": "drive-insight",
+  "date": "2026-09-02",
+  "backend": "GTI15 ComfyUI",
+  "endpoint": "http://192.168.50.31:8188",
+  "workflow": "generate_image",
+  "model": "RealVisXL_V5.0_fp16.safetensors",
+  "accepted": [
+    {
+      "file": "dri-dense-fog-driving-plan-20260902-1.png",
+      "source_file": "ComfyUI_00289_.png",
+      "asset_id": "571c89bc-4b28-407c-b07e-d4f5d4519d11",
+      "prompt_id": "1e7ec30a-906e-4187-89e9-e16e08b332af",
+      "seed": 26090201,
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS: natural foggy two-lane road; no readable text, branding, people, or malformed vehicle"
+    },
+    {
+      "file": "dri-dense-fog-driving-plan-20260902-2.png",
+      "source_file": "ComfyUI_00290_.png",
+      "asset_id": "d67ea976-2b2d-457b-ba04-0013f0738735",
+      "prompt_id": "b64dc32c-c0e1-4823-9d52-7fbf16be3e54",
+      "seed": 26090202,
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS: realistic empty divided roadway and fog bank; no text, logos, people, or distortions"
+    },
+    {
+      "file": "dri-dense-fog-driving-plan-20260902-3.png",
+      "source_file": "ComfyUI_00292_.png",
+      "asset_id": "3d26e827-0736-48c2-b739-7cb43c147f59",
+      "prompt_id": "1e7bdefe-3a9e-4053-86ba-622b530b89f8",
+      "seed": 26090204,
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS: realistic empty sunrise road with reduced horizon visibility; no text, logos, people, or vehicle artifacts"
+    },
+    {
+      "file": "dri-dense-fog-driving-plan-20260902-4.png",
+      "source_file": "ComfyUI_00293_.png",
+      "asset_id": "63fbe78b-fdb4-435e-a1c9-11979eca73c9",
+      "prompt_id": "0854bf5f-2375-46c1-9691-375fdc3eb658",
+      "seed": 26090205,
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS: realistic tree-lined foggy road with distant headlights; no readable text, branding, faces, or malformed objects"
+    },
+    {
+      "file": "dri-dense-fog-driving-plan-20260902-5.png",
+      "source_file": "ComfyUI_00294_.png",
+      "asset_id": "1364e5fc-e2ee-4c1f-9dd8-9432f01cbc82",
+      "prompt_id": "82683a35-8346-486b-b621-4b2df74a90ed",
+      "seed": 26090206,
+      "width": 1536,
+      "height": 864,
+      "visual_qa": "PASS: plausible misted mirror and visible edge line; no text, logos, hands, faces, or unsafe UI"
+    }
+  ],
+  "rejected": [
+    {
+      "source_file": "ComfyUI_00291_.png",
+      "asset_id": "ccec2d80-0832-46e4-bba9-d5d94d622aec",
+      "prompt_id": "4f2e2734-03ee-4a39-b77c-de1e598f4d2f",
+      "seed": 26090203,
+      "reason": "Rejected from final set: visible manufacturer emblem and synthetic license-plate text"
+    }
+  ],
+  "settings": {"steps": 30, "cfg": 5.5, "width": 1536, "height": 864},
+  "negative_prompt_common": "text, letters, words, logo, watermark, UI, distorted vehicle or road, crash, people, faces, hands, illustration, CGI",
+  "contact_sheet": "dri-dense-fog-driving-plan-20260902-final-contact-sheet.jpg",
+  "rejected_candidates_excluded_from_contact_sheet": true,
+  "final_visual_qa": "PASS"
+}
